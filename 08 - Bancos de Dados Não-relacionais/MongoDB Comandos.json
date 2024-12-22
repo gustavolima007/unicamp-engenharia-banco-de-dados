@@ -1,0 +1,16 @@
+Para criar um docker
+docker run --name mymongo -d -p 27017:27017 mongo:7 
+
+Parar o docker 
+docker stop mymongo 
+
+Iniciar o Docker
+docker start mymongo
+
+Usando o mongosh para conectar 
+docker exec -it mymongo mongosh
+
+Depois conecta o MongoCompass
+
+
+      

@@ -1,0 +1,211 @@
+Gustavo Ferreira Lima
+Mateus de Almeida Frigo
+
+"Módulo 03d MongoDB - Arquitetura"
+
+Questão 01
+O numero minumo de nos é 3. Se dois clusters falharem, será necessario ter 5 nos para suportar.
+Desta forma, um dos nos sera eleito como nó primario.
+
+
+Questão 02
+Criando no primario:
+docker run --name mongo-0 -d --net my-mongo-cluster -p 27021:27021 mongo --port 27021 --replSet rs0
+
+Criando os 4 nós secundarios:
+docker run --name mongo-1 -d --net my-mongo-cluster -p 27022:27022 mongo --port 27022 --replSet rs0
+
+docker run --name mongo-2 -d --net my-mongo-cluster -p 27023:27023 mongo --port 27023 --replSet rs0
+
+docker run --name mongo-3 -d --net my-mongo-cluster -p 27024:27024 mongo --port 27024 --replSet rs0
+
+docker run --name mongo-4 -d --net my-mongo-cluster -p 27025:27025 mongo --port 27025 --replSet rs0
+
+Iniciando a recplica set:
+rs.initiate({
+  _id: "rs0",
+  members: [
+    { _id: 0, host: "mongo-0:27021" },
+    { _id: 1, host: "mongo-1:27022" },
+    { _id: 2, host: "mongo-2:27023" },
+    { _id: 3, host: "mongo-3:27024" },
+    { _id: 4, host: "mongo-4:27025" }
+  ]
+})
+
+
+Questão 03
+Comando:
+<rs.status()>
+
+<Saida do comando>
+ test> rs.status()
+{
+  set: 'rs0',
+  date: ISODate('2024-09-07T13:59:19.689Z'),
+  myState: 1,
+  term: Long('1'),
+  syncSourceHost: '',
+  syncSourceId: -1,
+  heartbeatIntervalMillis: Long('2000'),
+  majorityVoteCount: 3,
+  writeMajorityCount: 3,
+  votingMembersCount: 5,
+  writableVotingMembersCount: 5,
+  optimes: {
+    lastCommittedOpTime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+    lastCommittedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+    readConcernMajorityOpTime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+    appliedOpTime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+    durableOpTime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+    lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+    lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z')
+  },
+  lastStableRecoveryTimestamp: Timestamp({ t: 1725717528, i: 1 }),
+  electionCandidateMetrics: {
+    lastElectionReason: 'electionTimeout',
+    lastElectionDate: ISODate('2024-09-07T13:58:59.897Z'),
+    electionTerm: Long('1'),
+    lastCommittedOpTimeAtElection: { ts: Timestamp({ t: 1725717528, i: 1 }), t: Long('-1') },
+    lastSeenOpTimeAtElection: { ts: Timestamp({ t: 1725717528, i: 1 }), t: Long('-1') },
+    numVotesNeeded: 3,
+    priorityAtElection: 1,
+    electionTimeoutMillis: Long('10000'),
+    numCatchUpOps: Long('0'),
+    newTermStartDate: ISODate('2024-09-07T13:58:59.942Z'),
+    wMajorityWriteAvailabilityDate: ISODate('2024-09-07T13:59:00.456Z')
+  },
+  members: [
+    {
+      _id: 0,
+      name: 'mongo-0:27021',
+      health: 1,
+      state: 1,
+      stateStr: 'PRIMARY',
+      uptime: 337,
+      optime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDate: ISODate('2024-09-07T13:59:00.000Z'),
+      lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      syncSourceHost: '',
+      syncSourceId: -1,
+      infoMessage: 'Could not find member to sync from',
+      electionTime: Timestamp({ t: 1725717539, i: 1 }),
+      electionDate: ISODate('2024-09-07T13:58:59.000Z'),
+      configVersion: 1,
+      configTerm: 1,
+      self: true,
+      lastHeartbeatMessage: ''
+    },
+    {
+      _id: 1,
+      name: 'mongo-1:27022',
+      health: 1,
+      state: 2,
+      stateStr: 'SECONDARY',
+      uptime: 31,
+      optime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDurable: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDate: ISODate('2024-09-07T13:59:00.000Z'),
+      optimeDurableDate: ISODate('2024-09-07T13:59:00.000Z'),
+      lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastHeartbeat: ISODate('2024-09-07T13:59:17.914Z'),
+      lastHeartbeatRecv: ISODate('2024-09-07T13:59:18.915Z'),
+      pingMs: Long('0'),
+      lastHeartbeatMessage: '',
+      syncSourceHost: 'mongo-0:27021',
+      syncSourceId: 0,
+      infoMessage: '',
+      configVersion: 1,
+      configTerm: 1
+    },
+    {
+      _id: 2,
+      name: 'mongo-2:27023',
+      health: 1,
+      state: 2,
+      stateStr: 'SECONDARY',
+      uptime: 31,
+      optime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDurable: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDate: ISODate('2024-09-07T13:59:00.000Z'),
+      optimeDurableDate: ISODate('2024-09-07T13:59:00.000Z'),
+      lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastHeartbeat: ISODate('2024-09-07T13:59:17.916Z'),
+      lastHeartbeatRecv: ISODate('2024-09-07T13:59:18.917Z'),
+      pingMs: Long('0'),
+      lastHeartbeatMessage: '',
+      syncSourceHost: 'mongo-0:27021',
+      syncSourceId: 0,
+      infoMessage: '',
+      configVersion: 1,
+      configTerm: 1
+    },
+    {
+      _id: 3,
+      name: 'mongo-3:27024',
+      health: 1,
+      state: 2,
+      stateStr: 'SECONDARY',
+      uptime: 31,
+      optime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDurable: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDate: ISODate('2024-09-07T13:59:00.000Z'),
+      optimeDurableDate: ISODate('2024-09-07T13:59:00.000Z'),
+      lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastHeartbeat: ISODate('2024-09-07T13:59:17.918Z'),
+      lastHeartbeatRecv: ISODate('2024-09-07T13:59:18.918Z'),
+      pingMs: Long('0'),
+      lastHeartbeatMessage: '',
+      syncSourceHost: 'mongo-0:27021',
+      syncSourceId: 0,
+      infoMessage: '',
+      configVersion: 1,
+      configTerm: 1
+    },
+    {
+      _id: 4,
+      name: 'mongo-4:27025',
+      health: 1,
+      state: 2,
+      stateStr: 'SECONDARY',
+      uptime: 31,
+      optime: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDurable: { ts: Timestamp({ t: 1725717540, i: 6 }), t: Long('1') },
+      optimeDate: ISODate('2024-09-07T13:59:00.000Z'),
+      optimeDurableDate: ISODate('2024-09-07T13:59:00.000Z'),
+      lastAppliedWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastDurableWallTime: ISODate('2024-09-07T13:59:00.542Z'),
+      lastHeartbeat: ISODate('2024-09-07T13:59:17.914Z'),
+      lastHeartbeatRecv: ISODate('2024-09-07T13:59:18.913Z'),
+      pingMs: Long('0'),
+      lastHeartbeatMessage: '',
+      syncSourceHost: 'mongo-0:27021',
+      syncSourceId: 0,
+      infoMessage: '',
+      configVersion: 1,
+      configTerm: 1
+    }
+  ],
+  ok: 1,
+  '$clusterTime': {
+    clusterTime: Timestamp({ t: 1725717540, i: 6 }),
+    signature: {
+      hash: Binary.createFromBase64('AAAAAAAAAAAAAAAAAAAAAAAAAAA=', 0),
+      keyId: Long('0')
+    }
+  },
+  operationTime: Timestamp({ t: 1725717540, i: 6 })
+}
+
+
+
+Questão 04
+
+Parar dois nós do cluster replica set pode afetar a disponibilidade e a consistência. 
+Se o PRIMARY for um dos nós parados, o cluster não terá um PRIMARY até que um novo seja eleito, bloqueando operações de escrita. 
+Já se houver um PRIMARY, as operações de leitura e escrita podem continuar, mas com menos recursos, o que pode impactar o desempenho. 
+Após reiniciar os nós parados, eles se reconectarão e começarão a sincronizar os dados com o PRIMARY.

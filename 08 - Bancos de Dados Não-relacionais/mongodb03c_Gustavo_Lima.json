@@ -1,0 +1,68 @@
+Gustavo Ferreira Lima
+Mateus de Almeida Frigo
+
+"Módulo 03c MongoDB - Performance"
+
+Questão 01
+Utilizando no documento Clientes:
+
+db.clientes.find().explain("executionStats")
+
+Questão 02
+O nome do atributo é executionTimeMillis
+
+Questão 03
+
+Um índice simples é criado em um único campo de uma coleção. 
+Ele permite que o MongoDB busque rapidamente documentos.
+
+db.clientes.createIndex({ nome: 1 })
+
+Um índice composto é criado em dois ou mais campos de uma coleção. 
+Ele permite que o MongoDB otimize buscas que filtram dados com base em múltiplos critérios.
+
+db.clientes.createIndex({ nome: 1, email: -1 })
+
+Questão 4
+A indexação acelera a leitura das consultas que podem ser realizadas de forma mais eficiente no MongoDB.
+Sendo capaz de recuperar registros sem varrer toda a coleção de documentos.
+Os indices tornam as operações de escrita mais lentas, porque toda vez que um dado é modificado, o MongoDB tem que atualizar os índices correspondentes também.
+
+Questão 5
+Uma consulta coberta (covered query) no MongoDB ocorre quando todos os campos utilizados na consulta estão incluídos em um índice, permitindo que o MongoDB utilize a consulta diretamente a partir do índice, sem acessar os documentos no disco.
+
+Exemplo na coleção clientes:
+db.clientes.find({ nome: "João" }, { nome: 1, email: 1, _id: 0 })
+
+Esta consulta é coberta, pois o campo filtrado nome e email estão no indice.
+
+Ao utilizar consultas cobertas, melhora a velocidade no MongoDB e carrega menos dados na memoria, melhorando a eficiencia.
+
+
+Questão 6
+Criando indice unico para nome e artist:
+
+db.album.createIndex({ name: 1, artist: 1 }, { unique: true })
+
+Questão 7
+db.movies.createIndex(
+  { title: 1, year: 1 },
+  { partialFilterExpression: { "imdb.votes": { $gte: 0 } } }
+)
+
+Questão 8 
+db.movies.createIndex(
+  { "imdb.rating": 1, rated: 1, title: -1 }
+)
+
+Questão 9 
+
+db.movies.createIndex(
+  { year: 1, countries: 1 }
+)
+
+Questão 10
+db.movies.createIndex(
+  { lastupdated: 1 },
+  { expireAfterSeconds: 120 }
+)

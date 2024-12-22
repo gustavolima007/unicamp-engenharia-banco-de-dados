@@ -1,0 +1,131 @@
+Gustavo Ferreira Lima
+Mateus de Almeida Frigo
+
+"Módulo 03b MongoDB - Modelagem de Dados"
+
+Questão 01
+Modelo de e-commerce: utilizamos um modelo de lojas de tenis.
+
+--> Produtos
+
+db.produtos.insertMany([
+  {
+    nome: "Tênis Running",
+    descricao: "Tênis leve e confortável para corridas.",
+    preco: 299.99,
+    categoria: "Calçados"
+  },
+  {
+    nome: "Tênis Casual",
+    descricao: "Tênis para o uso diário.",
+    preco: 149.99,
+    categoria: "Calçados"
+  },
+  {
+    nome: "Tênis de treino",
+    descricao: "Tênis resistente para treinos de academia",
+    preco: 199.99,
+    categoria: "Calçados"
+  }
+]);
+
+db.produtos.find();
+
+
+--> Clientes
+
+db.clientes.insert([
+  {
+    nome: "Gustavo Lima",
+    email: "gustavo.lima@gmail.com",
+    endereco: "Rua das Flores, 555",
+    telefone: "123456789"
+  },
+  {
+    nome: "Mateus Frigo",
+    email: "mateus.frigo@gmail.com",
+    endereco: "Avenida Central, 756",
+    telefone: "123456789"
+  },
+  {
+    nome: "Lucas Matias",
+    email: "matias.l@gmail.com",
+    endereco: "Parque das bandeiras, 789",
+    telefone: "123456789"
+  }
+]);
+
+db.clientes.find();
+
+
+--> Pedidos
+
+db.pedidos.insert([
+  {
+    numero_pedido: "PED70001",
+    cliente: "Gustavo Lima",
+    produtos: [
+      { produto_id: "Tênis Running", quantidade: 2 },
+      { produto_id: "Tênis de treino", quantidade: 1 }
+    ],
+    valor_total: 799.97,
+    data_pedido: "2024-08-05",
+    status_pedido: "Enviado"
+  },
+  {
+    numero_pedido: "PED70002",
+    cliente: "Mateus Frigo",
+    produtos: [
+      { produto_id: "Tênis de treino", quantidade: 1 }
+    ],
+    valor_total: 199.99,
+    data_pedido: "2024-08-06",
+    status_pedido: "Entregue"
+  },
+  {
+    numero_pedido: "PED70003",
+    cliente: "Lucas Matias",
+    produtos: [
+      { produto_id: "Tênis Casual", quantidade: 1 },
+      { produto_id: "Tênis de treino", quantidade: 1 }
+    ],
+    valor_total: 349.98,
+    data_pedido: "2024-08-07",
+    status_pedido: "Processando"
+  }
+]);
+
+
+db.pedidos.find();
+
+
+--> Avaliacoes 
+
+db.avaliacoes.insert([
+  {
+    produto: "Tênis Running",
+    autor: "Gustavo Lima",
+    titulo: "Aguardando a entrega do meu pedido",
+    texto: "Estou aguardando meu pedido ansioso, nao vejo a hora de chegar",
+    nota: 5,
+    data_avaliacao: "2024-08-06"
+  },
+  {
+    produto: "Tênis de treino",
+    autor: "Mateus Frigo",
+    titulo: "Perfeito para treinos!",
+    texto: "Resistente e confortável, ótimo para academia.",
+    nota: 4,
+    data_avaliacao: "2024-08-11"
+  },
+  {
+    produto: "Tênis Casual",
+    autor: "Lucas Matias",
+    titulo: "Demora na entrega",
+    texto: "EStou aguardando ate hoje e meu pedido ainda nao foi enviado",
+    nota: 0,
+    data_avaliacao: "2024-08-12"
+  }
+]);
+
+db.avaliacoes.find();

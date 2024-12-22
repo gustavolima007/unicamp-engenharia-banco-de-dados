@@ -1,0 +1,113 @@
+Gustavo Ferreira Lima
+Mateus de Almeida Frigo
+
+"Módulo 03a MongoDB - Manipulação de Dados"
+
+Questão 01
+
+db.filmes.find({ year: 1916 })
+
+
+Questão 02
+Documents da coleção movies:
+
+db.movies.find(
+  { "imdb.rating": { $gte: 8.0 } } 
+)
+
+
+Questão 03
+Na linguagem MQL:
+db.restaurants_small.countDocuments({ borough: "Queens" })
+
+
+Questão 04
+Na linguagem MQL:
+
+db.restaurants_small.find(
+  { cuisine: { $nin: ["Italian", "Russian"] } },
+  { name: 1, cuisine: 1, _id: 0 }
+)
+
+
+Questão 05
+Para criar o album:
+
+db.Album.insertMany([
+  {
+    Name: "Discovery",
+    Artist: "Daft Punk",
+    Genre: "Electronic",
+    Year: 2001,
+    Tracks: ["One More Time", "Aerodynamic", "Digital Love"]
+  },
+  {
+    Name: "Visions",
+    Artist: "Grimes",
+    Genre: "Indie",
+    Year: 2012,
+    Tracks: ["Genesis", "Oblivion"]
+  },
+  {
+    Name: "Lust for Life",
+    Artist: "Lana Del Rey",
+    Genre: "Pop",
+    Year: 2017,
+    Tracks: ["Love", "13 Beaches"]
+  }
+])
+
+
+Questão 06
+
+Atualizando o atributo Rock para Visions:
+
+db.Album.updateOne(
+  { Name: "Visions" }, 
+  { $set: { Genre: "Rock" } }  
+)
+
+
+Questão 07
+
+Adicionando o campo Country:
+
+db.Album.updateOne(
+  { Name: "Discovery" },
+  { $set: { Country: "France" } }
+)
+
+db.Album.updateOne(
+  { Name: "Visions" },
+  { $set: { Country: "USA" } }
+)
+
+db.Album.updateOne(
+  { Name: "Lust for Life" },
+  { $set: { Country: "Canada" } }
+)
+
+
+Questão 08
+
+Remover o atributo Tracks:
+
+db.Album.updateMany(
+  {},  
+  { $unset: { Tracks: "" } }  
+)
+
+
+Questão 09
+
+Deletar os documentos que o ano é menor que 2015:
+
+db.Album.deleteMany({ Year: { $lt: 2015 } })
+
+
+Questão 10
+
+db.Album.updateOne(
+  { Name: "Lust for Life" },  
+  { $set: { Grammy_Awards: { Name: "Best Pop Vocal Album", Result: "Nominated" } } }  
+)

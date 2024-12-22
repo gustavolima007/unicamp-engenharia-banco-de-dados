@@ -1,0 +1,56 @@
+Gustavo Ferreira Lima
+Mateus de Almeida Frigo
+
+"Módulo 03e MongoDB - Aggregation Framework"
+
+Questão 01
+Usando $Match e $gt (Greater Than) para calcular o numero maior que 100:
+
+db.movies.aggregate([
+  { $match: { "tomatoes.viewer.numReviews": { $gt: 100 } } },
+  { $count: "total_movies" }
+])
+
+
+
+Questão 02
+db.restaurants_small.aggregate([
+  { $match: { cuisine: { $nin: ["Italian", "Russian"] } } },
+  { $project: { name: 1, cuisine: 1, _id: 0 } },
+  { $sort: { name: 1 } },
+  { $limit: 10 }
+])
+
+
+
+Questão 03
+SELECT _id, nome, cidade, nota
+	FROM aluno
+ORDER BY cidade ASC, nota DESC;
+
+
+
+Questão 04
+Comando:
+<db.movies.aggregate([
+  { $match: { "awards.wins": { $gt: 0 } } },
+  { $unwind: "$directors" },
+  { $group: { _id: "$directors", total_movies: { $sum: 1 } } },
+  { $sort: { total_movies: -1 } },
+  { $limit: 10 },
+  { $project: { _id: 0, name: "$_id", total: "$total_movies" } }
+])>
+
+<saída do comando>
+<[
+  { name: 'Woody Allen', total: 33 },
+  { name: 'Martin Scorsese', total: 29 },
+  { name: 'Werner Herzog', total: 29 },
+  { name: 'John Ford', total: 28 },
+  { name: 'Steven Spielberg', total: 28 },
+  { name: 'John Huston', total: 28 },
+  { name: 'Takashi Miike', total: 27 },
+  { name: 'Alfred Hitchcock', total: 24 },
+  { name: 'Wim Wenders', total: 24 },
+  { name: 'Ken Loach', total: 23 }
+]>
