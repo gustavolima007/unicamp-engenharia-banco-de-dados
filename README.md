@@ -10,7 +10,6 @@
   - Redis 🧑‍💻  
   - Apache Spark ⚡  
   - Power BI 📊  
-  - Python 🐍  
   - Data Warehouse 🏛️  
   - Machine Learning 🤖  
   - Segurança de Banco de Dados 🔐  
