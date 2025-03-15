@@ -1,9 +1,10 @@
-# Engenharia de Banco de Dados - Unicamp 🎓💻
+# Pós-Graduação em Especialização em Engenharia de Banco de Dados - Unicamp 🎓💻
 
 📚 Repositório dedicado às atividades, projetos e estudos relacionados à disciplina **Engenharia e Administração de Sistemas de Banco de Dados** na Unicamp.
 
 ## ✨ Sobre
 🔹 **Conteúdo**: Engenharia de dados, administração de sistemas de banco de dados, modelagem, otimização, Data Warehouse, aprendizado de máquina, segurança de banco de dados e práticas de gerenciamento de dados.  
+
 🔹 **Tecnologias abordadas**:  
   - SQL 🐘  
   - MongoDB 🍃  
@@ -12,6 +13,9 @@
   - Power BI 📊  
   - Data Warehouse 🏛️  
   - Machine Learning 🤖  
+  - Oracle 🏛️  
+  - Elasticsearch 🔍  
+  - Mineração de Dados e Algoritmos de Aprendizado 🔎  
   - Segurança de Banco de Dados 🔐  
 
 ## 📚 Ementa de Cursos
@@ -62,8 +66,3 @@
 
 - **CET-0621 - Aprendizado de Máquina na Análise de Dados**  
   Tipos de aprendizado de máquina: supervisionado, não supervisionado, regressão, classificação e agrupamento de dados.
-
-## 🚀 Objetivo
-Compartilhar conhecimento, desenvolver habilidades em banco de dados, otimização de sistemas e explorar projetos avançados em ciência de dados, aprendizado de máquina e segurança de dados.
-
-**Colabore e aprenda junto!**
