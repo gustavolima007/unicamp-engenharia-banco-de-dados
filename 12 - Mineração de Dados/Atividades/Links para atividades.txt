@@ -4,7 +4,7 @@ Atividades:
 
 ----> Python - OK
 ----> NumPy
-----> Pandas
+----> Pandas - OK
 ----> 
 
 
