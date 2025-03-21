@@ -3,12 +3,9 @@ https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR41E8VC6t9yhDdJjZvs082g02vR
 Atividades:
 
 ----> Python - OK
-----> NumPy
+----> NumPy - OK
 ----> Pandas - OK
-----> 
 
+----> Intruducao a MD
+----> Tratamento de dados
 
------> Qual tipo de coleção nao permite membros duplicados?
-SET: Ele não permite membros duplicados, ou seja, não permite que um mesmo valor seja inserido mais de uma vez na coleção.
-
-----> 
