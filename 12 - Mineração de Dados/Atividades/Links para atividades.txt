@@ -5,7 +5,6 @@ Atividades:
 ----> Python - OK
 ----> NumPy - OK
 ----> Pandas - OK
-
 ----> Intruducao a MD
 ----> Tratamento de dados
 
