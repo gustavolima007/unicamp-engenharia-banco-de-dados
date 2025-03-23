@@ -1,0 +1,3002 @@
+[
+	{
+		"CATEGORIA_ID": 2,
+		"NOME": "urna. Ut tincidunt vehicula risus. Nulla eget metus eu erat",
+		"DTAINCLUSAO": "Mar 13, 2025",
+		"USUINCLUSAO": "Harrison Combs"
+	},
+	{
+		"CATEGORIA_ID": 3,
+		"NOME": "lacinia orci, consectetuer euismod est arcu ac orci. Ut semper",
+		"DTAINCLUSAO": "Dec 14, 2024",
+		"USUINCLUSAO": "Sawyer Kemp"
+	},
+	{
+		"CATEGORIA_ID": 4,
+		"NOME": "Nulla facilisi. Sed neque. Sed eget lacus. Mauris non dui",
+		"DTAINCLUSAO": "Apr 12, 2024",
+		"USUINCLUSAO": "Murphy Lancaster"
+	},
+	{
+		"CATEGORIA_ID": 5,
+		"NOME": "urna, nec luctus felis purus ac tellus. Suspendisse sed dolor.",
+		"DTAINCLUSAO": "May 27, 2024",
+		"USUINCLUSAO": "Shaeleigh Grimes"
+	},
+	{
+		"CATEGORIA_ID": 6,
+		"NOME": "Donec felis orci, adipiscing non, luctus sit amet, faucibus ut,",
+		"DTAINCLUSAO": "Oct 17, 2024",
+		"USUINCLUSAO": "Porter Coffey"
+	},
+	{
+		"CATEGORIA_ID": 7,
+		"NOME": "feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc,",
+		"DTAINCLUSAO": "Feb 28, 2025",
+		"USUINCLUSAO": "Emery Morrow"
+	},
+	{
+		"CATEGORIA_ID": 8,
+		"NOME": "eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit",
+		"DTAINCLUSAO": "Dec 10, 2023",
+		"USUINCLUSAO": "Mohammad Castaneda"
+	},
+	{
+		"CATEGORIA_ID": 9,
+		"NOME": "rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin",
+		"DTAINCLUSAO": "May 8, 2024",
+		"USUINCLUSAO": "Tasha Nash"
+	},
+	{
+		"CATEGORIA_ID": 10,
+		"NOME": "id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis",
+		"DTAINCLUSAO": "Sep 1, 2024",
+		"USUINCLUSAO": "Nero Walsh"
+	},
+	{
+		"CATEGORIA_ID": 11,
+		"NOME": "risus varius orci, in consequat enim diam vel arcu. Curabitur",
+		"DTAINCLUSAO": "Dec 15, 2024",
+		"USUINCLUSAO": "Phillip Faulkner"
+	},
+	{
+		"CATEGORIA_ID": 12,
+		"NOME": "ut erat. Sed nunc est, mollis non, cursus non, egestas",
+		"DTAINCLUSAO": "Jun 24, 2023",
+		"USUINCLUSAO": "Regina Molina"
+	},
+	{
+		"CATEGORIA_ID": 13,
+		"NOME": "luctus lobortis. Class aptent taciti sociosqu ad litora torquent per",
+		"DTAINCLUSAO": "Nov 14, 2023",
+		"USUINCLUSAO": "Davis Nicholson"
+	},
+	{
+		"CATEGORIA_ID": 14,
+		"NOME": "Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.",
+		"DTAINCLUSAO": "Aug 18, 2023",
+		"USUINCLUSAO": "Zoe Cruz"
+	},
+	{
+		"CATEGORIA_ID": 15,
+		"NOME": "pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna.",
+		"DTAINCLUSAO": "Mar 15, 2025",
+		"USUINCLUSAO": "Brooke Slater"
+	},
+	{
+		"CATEGORIA_ID": 16,
+		"NOME": "mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet,",
+		"DTAINCLUSAO": "Jan 27, 2024",
+		"USUINCLUSAO": "Barclay Hubbard"
+	},
+	{
+		"CATEGORIA_ID": 17,
+		"NOME": "et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget",
+		"DTAINCLUSAO": "May 25, 2023",
+		"USUINCLUSAO": "Reece Baker"
+	},
+	{
+		"CATEGORIA_ID": 18,
+		"NOME": "amet ante. Vivamus non lorem vitae odio sagittis semper. Nam",
+		"DTAINCLUSAO": "Oct 21, 2024",
+		"USUINCLUSAO": "Ashely Dominguez"
+	},
+	{
+		"CATEGORIA_ID": 19,
+		"NOME": "elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et",
+		"DTAINCLUSAO": "Sep 30, 2024",
+		"USUINCLUSAO": "Brendan Dixon"
+	},
+	{
+		"CATEGORIA_ID": 20,
+		"NOME": "elit erat vitae risus. Duis a mi fringilla mi lacinia",
+		"DTAINCLUSAO": "Jul 19, 2024",
+		"USUINCLUSAO": "Miranda Cash"
+	},
+	{
+		"CATEGORIA_ID": 21,
+		"NOME": "rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed",
+		"DTAINCLUSAO": "Aug 17, 2024",
+		"USUINCLUSAO": "Geraldine Miles"
+	},
+	{
+		"CATEGORIA_ID": 22,
+		"NOME": "tellus lorem eu metus. In lorem. Donec elementum, lorem ut",
+		"DTAINCLUSAO": "Mar 17, 2025",
+		"USUINCLUSAO": "Celeste Lara"
+	},
+	{
+		"CATEGORIA_ID": 23,
+		"NOME": "auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus",
+		"DTAINCLUSAO": "Jan 31, 2025",
+		"USUINCLUSAO": "Barrett Mccray"
+	},
+	{
+		"CATEGORIA_ID": 24,
+		"NOME": "eget metus eu erat semper rutrum. Fusce dolor quam, elementum",
+		"DTAINCLUSAO": "Oct 16, 2024",
+		"USUINCLUSAO": "Christine Allison"
+	},
+	{
+		"CATEGORIA_ID": 25,
+		"NOME": "Etiam ligula tortor, dictum eu, placerat eget, venenatis a, magna.",
+		"DTAINCLUSAO": "Aug 8, 2024",
+		"USUINCLUSAO": "Kadeem Small"
+	},
+	{
+		"CATEGORIA_ID": 26,
+		"NOME": "malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam",
+		"DTAINCLUSAO": "Dec 14, 2024",
+		"USUINCLUSAO": "Colorado Marshall"
+	},
+	{
+		"CATEGORIA_ID": 27,
+		"NOME": "amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor",
+		"DTAINCLUSAO": "Oct 26, 2023",
+		"USUINCLUSAO": "Lunea Stone"
+	},
+	{
+		"CATEGORIA_ID": 28,
+		"NOME": "dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate",
+		"DTAINCLUSAO": "Jan 12, 2024",
+		"USUINCLUSAO": "Hector Glover"
+	},
+	{
+		"CATEGORIA_ID": 29,
+		"NOME": "iaculis quis, pede. Praesent eu dui. Cum sociis natoque penatibus",
+		"DTAINCLUSAO": "Apr 14, 2025",
+		"USUINCLUSAO": "Katell Ortega"
+	},
+	{
+		"CATEGORIA_ID": 30,
+		"NOME": "sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem",
+		"DTAINCLUSAO": "Apr 7, 2024",
+		"USUINCLUSAO": "Catherine Meyers"
+	},
+	{
+		"CATEGORIA_ID": 31,
+		"NOME": "auctor non, feugiat nec, diam. Duis mi enim, condimentum eget,",
+		"DTAINCLUSAO": "Sep 13, 2024",
+		"USUINCLUSAO": "Sean Riley"
+	},
+	{
+		"CATEGORIA_ID": 32,
+		"NOME": "Sed nunc est, mollis non, cursus non, egestas a, dui.",
+		"DTAINCLUSAO": "Sep 11, 2023",
+		"USUINCLUSAO": "Curran Herman"
+	},
+	{
+		"CATEGORIA_ID": 33,
+		"NOME": "In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede",
+		"DTAINCLUSAO": "Aug 14, 2024",
+		"USUINCLUSAO": "Marshall Knowles"
+	},
+	{
+		"CATEGORIA_ID": 34,
+		"NOME": "cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis",
+		"DTAINCLUSAO": "Aug 20, 2024",
+		"USUINCLUSAO": "Walter Fleming"
+	},
+	{
+		"CATEGORIA_ID": 35,
+		"NOME": "sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing",
+		"DTAINCLUSAO": "Dec 30, 2023",
+		"USUINCLUSAO": "Gillian Townsend"
+	},
+	{
+		"CATEGORIA_ID": 36,
+		"NOME": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",
+		"DTAINCLUSAO": "Mar 28, 2024",
+		"USUINCLUSAO": "Shellie Conley"
+	},
+	{
+		"CATEGORIA_ID": 37,
+		"NOME": "dapibus quam quis diam. Pellentesque habitant morbi tristique senectus et",
+		"DTAINCLUSAO": "Aug 13, 2023",
+		"USUINCLUSAO": "Nell Boone"
+	},
+	{
+		"CATEGORIA_ID": 38,
+		"NOME": "Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis",
+		"DTAINCLUSAO": "Nov 8, 2023",
+		"USUINCLUSAO": "Lesley Bush"
+	},
+	{
+		"CATEGORIA_ID": 39,
+		"NOME": "auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa lobortis",
+		"DTAINCLUSAO": "Nov 23, 2024",
+		"USUINCLUSAO": "Kevyn Wooten"
+	},
+	{
+		"CATEGORIA_ID": 40,
+		"NOME": "vitae risus. Duis a mi fringilla mi lacinia mattis. Integer",
+		"DTAINCLUSAO": "Aug 10, 2023",
+		"USUINCLUSAO": "Ignacia Holmes"
+	},
+	{
+		"CATEGORIA_ID": 41,
+		"NOME": "cursus, diam at pretium aliquet, metus urna convallis erat, eget",
+		"DTAINCLUSAO": "Sep 18, 2024",
+		"USUINCLUSAO": "Omar Armstrong"
+	},
+	{
+		"CATEGORIA_ID": 42,
+		"NOME": "cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut,",
+		"DTAINCLUSAO": "Jan 18, 2024",
+		"USUINCLUSAO": "Alfreda Francis"
+	},
+	{
+		"CATEGORIA_ID": 43,
+		"NOME": "ac nulla. In tincidunt congue turpis. In condimentum. Donec at",
+		"DTAINCLUSAO": "Jun 23, 2023",
+		"USUINCLUSAO": "Kai Hopkins"
+	},
+	{
+		"CATEGORIA_ID": 44,
+		"NOME": "et netus et malesuada fames ac turpis egestas. Aliquam fringilla",
+		"DTAINCLUSAO": "Sep 12, 2023",
+		"USUINCLUSAO": "Ryder Paul"
+	},
+	{
+		"CATEGORIA_ID": 45,
+		"NOME": "auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris",
+		"DTAINCLUSAO": "Jan 22, 2025",
+		"USUINCLUSAO": "Kaseem Reilly"
+	},
+	{
+		"CATEGORIA_ID": 46,
+		"NOME": "metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec",
+		"DTAINCLUSAO": "Oct 27, 2024",
+		"USUINCLUSAO": "Neil Gilbert"
+	},
+	{
+		"CATEGORIA_ID": 47,
+		"NOME": "aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non",
+		"DTAINCLUSAO": "Jun 27, 2024",
+		"USUINCLUSAO": "Quintessa Gutierrez"
+	},
+	{
+		"CATEGORIA_ID": 48,
+		"NOME": "luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi",
+		"DTAINCLUSAO": "Dec 21, 2024",
+		"USUINCLUSAO": "Blaze Rosa"
+	},
+	{
+		"CATEGORIA_ID": 49,
+		"NOME": "et ultrices posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis",
+		"DTAINCLUSAO": "Oct 17, 2023",
+		"USUINCLUSAO": "Rina Carson"
+	},
+	{
+		"CATEGORIA_ID": 50,
+		"NOME": "Proin vel arcu eu odio tristique pharetra. Quisque ac libero",
+		"DTAINCLUSAO": "Aug 25, 2023",
+		"USUINCLUSAO": "Yetta Griffin"
+	},
+	{
+		"CATEGORIA_ID": 51,
+		"NOME": "arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt",
+		"DTAINCLUSAO": "Aug 5, 2024",
+		"USUINCLUSAO": "Cedric Schultz"
+	},
+	{
+		"CATEGORIA_ID": 52,
+		"NOME": "Donec nibh enim, gravida sit amet, dapibus id, blandit at,",
+		"DTAINCLUSAO": "Jul 10, 2023",
+		"USUINCLUSAO": "Nyssa Marquez"
+	},
+	{
+		"CATEGORIA_ID": 53,
+		"NOME": "Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede,",
+		"DTAINCLUSAO": "Dec 28, 2023",
+		"USUINCLUSAO": "Baxter Gilliam"
+	},
+	{
+		"CATEGORIA_ID": 54,
+		"NOME": "lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis",
+		"DTAINCLUSAO": "Jan 25, 2025",
+		"USUINCLUSAO": "Lee Lester"
+	},
+	{
+		"CATEGORIA_ID": 55,
+		"NOME": "interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt",
+		"DTAINCLUSAO": "Mar 18, 2024",
+		"USUINCLUSAO": "Alexis Jarvis"
+	},
+	{
+		"CATEGORIA_ID": 56,
+		"NOME": "tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum.",
+		"DTAINCLUSAO": "Apr 4, 2025",
+		"USUINCLUSAO": "Kirsten Silva"
+	},
+	{
+		"CATEGORIA_ID": 57,
+		"NOME": "volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean",
+		"DTAINCLUSAO": "Nov 22, 2023",
+		"USUINCLUSAO": "Thane Burt"
+	},
+	{
+		"CATEGORIA_ID": 58,
+		"NOME": "orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero",
+		"DTAINCLUSAO": "Aug 2, 2024",
+		"USUINCLUSAO": "Lester Dalton"
+	},
+	{
+		"CATEGORIA_ID": 59,
+		"NOME": "Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna",
+		"DTAINCLUSAO": "Oct 5, 2024",
+		"USUINCLUSAO": "Colt Harrell"
+	},
+	{
+		"CATEGORIA_ID": 60,
+		"NOME": "eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula.",
+		"DTAINCLUSAO": "Dec 11, 2024",
+		"USUINCLUSAO": "Larissa Snyder"
+	},
+	{
+		"CATEGORIA_ID": 61,
+		"NOME": "ante bibendum ullamcorper. Duis cursus, diam at pretium aliquet, metus",
+		"DTAINCLUSAO": "Apr 23, 2024",
+		"USUINCLUSAO": "Melanie Rasmussen"
+	},
+	{
+		"CATEGORIA_ID": 62,
+		"NOME": "ac orci. Ut semper pretium neque. Morbi quis urna. Nunc",
+		"DTAINCLUSAO": "Aug 13, 2024",
+		"USUINCLUSAO": "Ila Talley"
+	},
+	{
+		"CATEGORIA_ID": 63,
+		"NOME": "velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas",
+		"DTAINCLUSAO": "Mar 21, 2025",
+		"USUINCLUSAO": "Charde Preston"
+	},
+	{
+		"CATEGORIA_ID": 64,
+		"NOME": "diam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+		"DTAINCLUSAO": "Mar 18, 2024",
+		"USUINCLUSAO": "Aristotle Shepherd"
+	},
+	{
+		"CATEGORIA_ID": 65,
+		"NOME": "mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut,",
+		"DTAINCLUSAO": "Dec 11, 2024",
+		"USUINCLUSAO": "Macy Buchanan"
+	},
+	{
+		"CATEGORIA_ID": 66,
+		"NOME": "vel nisl. Quisque fringilla euismod enim. Etiam gravida molestie arcu.",
+		"DTAINCLUSAO": "Mar 15, 2025",
+		"USUINCLUSAO": "Tanner Gutierrez"
+	},
+	{
+		"CATEGORIA_ID": 67,
+		"NOME": "at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum",
+		"DTAINCLUSAO": "Feb 27, 2024",
+		"USUINCLUSAO": "Zorita Clemons"
+	},
+	{
+		"CATEGORIA_ID": 68,
+		"NOME": "augue porttitor interdum. Sed auctor odio a purus. Duis elementum,",
+		"DTAINCLUSAO": "Oct 24, 2024",
+		"USUINCLUSAO": "Hyatt Christensen"
+	},
+	{
+		"CATEGORIA_ID": 69,
+		"NOME": "eu tempor erat neque non quam. Pellentesque habitant morbi tristique",
+		"DTAINCLUSAO": "Oct 31, 2024",
+		"USUINCLUSAO": "Timon Davenport"
+	},
+	{
+		"CATEGORIA_ID": 70,
+		"NOME": "Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi",
+		"DTAINCLUSAO": "Jun 14, 2023",
+		"USUINCLUSAO": "Drake Yang"
+	},
+	{
+		"CATEGORIA_ID": 71,
+		"NOME": "sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus",
+		"DTAINCLUSAO": "Sep 5, 2024",
+		"USUINCLUSAO": "Merrill Richardson"
+	},
+	{
+		"CATEGORIA_ID": 72,
+		"NOME": "sit amet, faucibus ut, nulla. Cras eu tellus eu augue",
+		"DTAINCLUSAO": "May 19, 2023",
+		"USUINCLUSAO": "Denton Valentine"
+	},
+	{
+		"CATEGORIA_ID": 73,
+		"NOME": "per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel",
+		"DTAINCLUSAO": "Dec 31, 2024",
+		"USUINCLUSAO": "Jelani Livingston"
+	},
+	{
+		"CATEGORIA_ID": 74,
+		"NOME": "In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas",
+		"DTAINCLUSAO": "Feb 18, 2024",
+		"USUINCLUSAO": "Gabriel Brewer"
+	},
+	{
+		"CATEGORIA_ID": 75,
+		"NOME": "vitae semper egestas, urna justo faucibus lectus, a sollicitudin orci",
+		"DTAINCLUSAO": "Apr 15, 2024",
+		"USUINCLUSAO": "Clinton Britt"
+	},
+	{
+		"CATEGORIA_ID": 76,
+		"NOME": "Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc",
+		"DTAINCLUSAO": "Oct 27, 2023",
+		"USUINCLUSAO": "Keegan Contreras"
+	},
+	{
+		"CATEGORIA_ID": 77,
+		"NOME": "morbi tristique senectus et netus et malesuada fames ac turpis",
+		"DTAINCLUSAO": "Mar 2, 2025",
+		"USUINCLUSAO": "Kirk Callahan"
+	},
+	{
+		"CATEGORIA_ID": 78,
+		"NOME": "ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam",
+		"DTAINCLUSAO": "Mar 1, 2024",
+		"USUINCLUSAO": "Beau Paul"
+	},
+	{
+		"CATEGORIA_ID": 79,
+		"NOME": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+		"DTAINCLUSAO": "Sep 13, 2023",
+		"USUINCLUSAO": "Zelda Camacho"
+	},
+	{
+		"CATEGORIA_ID": 80,
+		"NOME": "ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare,",
+		"DTAINCLUSAO": "Jan 24, 2025",
+		"USUINCLUSAO": "Eric Hayes"
+	},
+	{
+		"CATEGORIA_ID": 81,
+		"NOME": "vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras",
+		"DTAINCLUSAO": "Jul 7, 2024",
+		"USUINCLUSAO": "Ayanna Mayo"
+	},
+	{
+		"CATEGORIA_ID": 82,
+		"NOME": "Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis",
+		"DTAINCLUSAO": "Sep 24, 2024",
+		"USUINCLUSAO": "Kane Trevino"
+	},
+	{
+		"CATEGORIA_ID": 83,
+		"NOME": "amet ornare lectus justo eu arcu. Morbi sit amet massa.",
+		"DTAINCLUSAO": "Jan 16, 2024",
+		"USUINCLUSAO": "Devin Mcneil"
+	},
+	{
+		"CATEGORIA_ID": 84,
+		"NOME": "sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus",
+		"DTAINCLUSAO": "Aug 24, 2024",
+		"USUINCLUSAO": "Lewis Simpson"
+	},
+	{
+		"CATEGORIA_ID": 85,
+		"NOME": "primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+		"DTAINCLUSAO": "Feb 24, 2025",
+		"USUINCLUSAO": "Noel Schroeder"
+	},
+	{
+		"CATEGORIA_ID": 86,
+		"NOME": "dignissim pharetra. Nam ac nulla. In tincidunt congue turpis. In",
+		"DTAINCLUSAO": "Feb 20, 2025",
+		"USUINCLUSAO": "Castor Terry"
+	},
+	{
+		"CATEGORIA_ID": 87,
+		"NOME": "lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque.",
+		"DTAINCLUSAO": "Feb 15, 2025",
+		"USUINCLUSAO": "Daria Brady"
+	},
+	{
+		"CATEGORIA_ID": 88,
+		"NOME": "tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at",
+		"DTAINCLUSAO": "Jul 7, 2024",
+		"USUINCLUSAO": "Iola Le"
+	},
+	{
+		"CATEGORIA_ID": 89,
+		"NOME": "per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare.",
+		"DTAINCLUSAO": "Apr 19, 2024",
+		"USUINCLUSAO": "Cullen Johnson"
+	},
+	{
+		"CATEGORIA_ID": 90,
+		"NOME": "dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor",
+		"DTAINCLUSAO": "May 22, 2024",
+		"USUINCLUSAO": "Ray Greer"
+	},
+	{
+		"CATEGORIA_ID": 91,
+		"NOME": "sed, facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque",
+		"DTAINCLUSAO": "Apr 30, 2024",
+		"USUINCLUSAO": "Dane Curtis"
+	},
+	{
+		"CATEGORIA_ID": 92,
+		"NOME": "Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis",
+		"DTAINCLUSAO": "Jun 29, 2024",
+		"USUINCLUSAO": "Rama Oneil"
+	},
+	{
+		"CATEGORIA_ID": 93,
+		"NOME": "et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien,",
+		"DTAINCLUSAO": "Jul 28, 2024",
+		"USUINCLUSAO": "Hayes Leblanc"
+	},
+	{
+		"CATEGORIA_ID": 94,
+		"NOME": "pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper,",
+		"DTAINCLUSAO": "Jan 27, 2024",
+		"USUINCLUSAO": "Olga Stanley"
+	},
+	{
+		"CATEGORIA_ID": 95,
+		"NOME": "laoreet, libero et tristique pellentesque, tellus sem mollis dui, in",
+		"DTAINCLUSAO": "Apr 19, 2023",
+		"USUINCLUSAO": "Porter Macias"
+	},
+	{
+		"CATEGORIA_ID": 96,
+		"NOME": "a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu.",
+		"DTAINCLUSAO": "Feb 24, 2024",
+		"USUINCLUSAO": "Martena Mcdaniel"
+	},
+	{
+		"CATEGORIA_ID": 97,
+		"NOME": "augue ac ipsum. Phasellus vitae mauris sit amet lorem semper",
+		"DTAINCLUSAO": "Jan 8, 2024",
+		"USUINCLUSAO": "Kathleen Alvarez"
+	},
+	{
+		"CATEGORIA_ID": 98,
+		"NOME": "pede. Cum sociis natoque penatibus et magnis dis parturient montes,",
+		"DTAINCLUSAO": "Jan 9, 2025",
+		"USUINCLUSAO": "William Mayer"
+	},
+	{
+		"CATEGORIA_ID": 99,
+		"NOME": "Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius.",
+		"DTAINCLUSAO": "Mar 1, 2024",
+		"USUINCLUSAO": "Faith Buckner"
+	},
+	{
+		"CATEGORIA_ID": 100,
+		"NOME": "lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi.",
+		"DTAINCLUSAO": "Jan 2, 2025",
+		"USUINCLUSAO": "Micah Perkins"
+	},
+	{
+		"CATEGORIA_ID": 101,
+		"NOME": "adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc",
+		"DTAINCLUSAO": "Dec 6, 2023",
+		"USUINCLUSAO": "Ebony Hayden"
+	},
+	{
+		"CATEGORIA_ID": 102,
+		"NOME": "mauris id sapien. Cras dolor dolor, tempus non, lacinia at,",
+		"DTAINCLUSAO": "May 20, 2023",
+		"USUINCLUSAO": "Stacy Ware"
+	},
+	{
+		"CATEGORIA_ID": 103,
+		"NOME": "Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum",
+		"DTAINCLUSAO": "Mar 9, 2025",
+		"USUINCLUSAO": "Harper Grant"
+	},
+	{
+		"CATEGORIA_ID": 104,
+		"NOME": "Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra.",
+		"DTAINCLUSAO": "Oct 18, 2023",
+		"USUINCLUSAO": "Nomlanga Wallace"
+	},
+	{
+		"CATEGORIA_ID": 105,
+		"NOME": "sed pede nec ante blandit viverra. Donec tempus, lorem fringilla",
+		"DTAINCLUSAO": "Apr 28, 2024",
+		"USUINCLUSAO": "Vera Suarez"
+	},
+	{
+		"CATEGORIA_ID": 106,
+		"NOME": "leo. Cras vehicula aliquet libero. Integer in magna. Phasellus dolor",
+		"DTAINCLUSAO": "Nov 14, 2023",
+		"USUINCLUSAO": "Alma Carrillo"
+	},
+	{
+		"CATEGORIA_ID": 107,
+		"NOME": "pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus",
+		"DTAINCLUSAO": "Dec 10, 2024",
+		"USUINCLUSAO": "Cally Molina"
+	},
+	{
+		"CATEGORIA_ID": 108,
+		"NOME": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor",
+		"DTAINCLUSAO": "Oct 19, 2024",
+		"USUINCLUSAO": "Jaime Mclean"
+	},
+	{
+		"CATEGORIA_ID": 109,
+		"NOME": "viverra. Donec tempus, lorem fringilla ornare placerat, orci lacus vestibulum",
+		"DTAINCLUSAO": "Dec 10, 2024",
+		"USUINCLUSAO": "Gannon Waters"
+	},
+	{
+		"CATEGORIA_ID": 110,
+		"NOME": "tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec",
+		"DTAINCLUSAO": "Oct 20, 2024",
+		"USUINCLUSAO": "Autumn Roberts"
+	},
+	{
+		"CATEGORIA_ID": 111,
+		"NOME": "nec mauris blandit mattis. Cras eget nisi dictum augue malesuada",
+		"DTAINCLUSAO": "Apr 3, 2025",
+		"USUINCLUSAO": "Neville Harvey"
+	},
+	{
+		"CATEGORIA_ID": 112,
+		"NOME": "malesuada. Integer id magna et ipsum cursus vestibulum. Mauris magna.",
+		"DTAINCLUSAO": "Dec 4, 2023",
+		"USUINCLUSAO": "Tamara Schneider"
+	},
+	{
+		"CATEGORIA_ID": 113,
+		"NOME": "eget, venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer",
+		"DTAINCLUSAO": "Jun 30, 2023",
+		"USUINCLUSAO": "Leo Emerson"
+	},
+	{
+		"CATEGORIA_ID": 114,
+		"NOME": "eget, venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer",
+		"DTAINCLUSAO": "Jan 27, 2025",
+		"USUINCLUSAO": "Sarah Mcintyre"
+	},
+	{
+		"CATEGORIA_ID": 115,
+		"NOME": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla",
+		"DTAINCLUSAO": "May 7, 2023",
+		"USUINCLUSAO": "Graham Lindsay"
+	},
+	{
+		"CATEGORIA_ID": 116,
+		"NOME": "ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo",
+		"DTAINCLUSAO": "Nov 4, 2024",
+		"USUINCLUSAO": "Zeus Rose"
+	},
+	{
+		"CATEGORIA_ID": 117,
+		"NOME": "vel, vulputate eu, odio. Phasellus at augue id ante dictum",
+		"DTAINCLUSAO": "Feb 27, 2024",
+		"USUINCLUSAO": "Roth Holland"
+	},
+	{
+		"CATEGORIA_ID": 118,
+		"NOME": "sit amet diam eu dolor egestas rhoncus. Proin nisl sem,",
+		"DTAINCLUSAO": "Oct 17, 2023",
+		"USUINCLUSAO": "Grant Hawkins"
+	},
+	{
+		"CATEGORIA_ID": 119,
+		"NOME": "lorem, sit amet ultricies sem magna nec quam. Curabitur vel",
+		"DTAINCLUSAO": "May 21, 2024",
+		"USUINCLUSAO": "Brielle Wilder"
+	},
+	{
+		"CATEGORIA_ID": 120,
+		"NOME": "semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim",
+		"DTAINCLUSAO": "Aug 21, 2023",
+		"USUINCLUSAO": "Garrett Fields"
+	},
+	{
+		"CATEGORIA_ID": 121,
+		"NOME": "vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras",
+		"DTAINCLUSAO": "Oct 9, 2023",
+		"USUINCLUSAO": "Judah Mercado"
+	},
+	{
+		"CATEGORIA_ID": 122,
+		"NOME": "amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor",
+		"DTAINCLUSAO": "Jun 9, 2023",
+		"USUINCLUSAO": "Callum Cleveland"
+	},
+	{
+		"CATEGORIA_ID": 123,
+		"NOME": "sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum",
+		"DTAINCLUSAO": "Apr 21, 2024",
+		"USUINCLUSAO": "Nolan Dean"
+	},
+	{
+		"CATEGORIA_ID": 124,
+		"NOME": "sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis",
+		"DTAINCLUSAO": "Dec 28, 2024",
+		"USUINCLUSAO": "Burke Pollard"
+	},
+	{
+		"CATEGORIA_ID": 125,
+		"NOME": "ultrices. Duis volutpat nunc sit amet metus. Aliquam erat volutpat.",
+		"DTAINCLUSAO": "Sep 18, 2023",
+		"USUINCLUSAO": "Phelan Durham"
+	},
+	{
+		"CATEGORIA_ID": 126,
+		"NOME": "Curabitur ut odio vel est tempor bibendum. Donec felis orci,",
+		"DTAINCLUSAO": "Nov 5, 2023",
+		"USUINCLUSAO": "Brett Jackson"
+	},
+	{
+		"CATEGORIA_ID": 127,
+		"NOME": "lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at",
+		"DTAINCLUSAO": "May 4, 2023",
+		"USUINCLUSAO": "Christopher Galloway"
+	},
+	{
+		"CATEGORIA_ID": 128,
+		"NOME": "auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi",
+		"DTAINCLUSAO": "Dec 16, 2023",
+		"USUINCLUSAO": "Michael Cortez"
+	},
+	{
+		"CATEGORIA_ID": 129,
+		"NOME": "mauris ipsum porta elit, a feugiat tellus lorem eu metus.",
+		"DTAINCLUSAO": "Aug 7, 2023",
+		"USUINCLUSAO": "Simon Cantu"
+	},
+	{
+		"CATEGORIA_ID": 130,
+		"NOME": "lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque.",
+		"DTAINCLUSAO": "Feb 16, 2025",
+		"USUINCLUSAO": "Leigh Callahan"
+	},
+	{
+		"CATEGORIA_ID": 131,
+		"NOME": "Aenean egestas hendrerit neque. In ornare sagittis felis. Donec tempor,",
+		"DTAINCLUSAO": "Sep 5, 2023",
+		"USUINCLUSAO": "Heidi Barlow"
+	},
+	{
+		"CATEGORIA_ID": 132,
+		"NOME": "ut mi. Duis risus odio, auctor vitae, aliquet nec, imperdiet",
+		"DTAINCLUSAO": "Oct 11, 2023",
+		"USUINCLUSAO": "Upton Mathis"
+	},
+	{
+		"CATEGORIA_ID": 133,
+		"NOME": "mi. Aliquam gravida mauris ut mi. Duis risus odio, auctor",
+		"DTAINCLUSAO": "Jul 25, 2023",
+		"USUINCLUSAO": "Kelly Hunt"
+	},
+	{
+		"CATEGORIA_ID": 134,
+		"NOME": "Mauris vestibulum, neque sed dictum eleifend, nunc risus varius orci,",
+		"DTAINCLUSAO": "Oct 2, 2024",
+		"USUINCLUSAO": "Diana Paul"
+	},
+	{
+		"CATEGORIA_ID": 135,
+		"NOME": "dui lectus rutrum urna, nec luctus felis purus ac tellus.",
+		"DTAINCLUSAO": "Jun 2, 2024",
+		"USUINCLUSAO": "Patrick Reynolds"
+	},
+	{
+		"CATEGORIA_ID": 136,
+		"NOME": "et pede. Nunc sed orci lobortis augue scelerisque mollis. Phasellus",
+		"DTAINCLUSAO": "Jul 13, 2024",
+		"USUINCLUSAO": "Drew Mercado"
+	},
+	{
+		"CATEGORIA_ID": 137,
+		"NOME": "primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+		"DTAINCLUSAO": "Jun 24, 2024",
+		"USUINCLUSAO": "Colleen Mccarthy"
+	},
+	{
+		"CATEGORIA_ID": 138,
+		"NOME": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed",
+		"DTAINCLUSAO": "Nov 12, 2024",
+		"USUINCLUSAO": "Patricia Henry"
+	},
+	{
+		"CATEGORIA_ID": 139,
+		"NOME": "luctus sit amet, faucibus ut, nulla. Cras eu tellus eu",
+		"DTAINCLUSAO": "Apr 2, 2025",
+		"USUINCLUSAO": "Martina Webb"
+	},
+	{
+		"CATEGORIA_ID": 140,
+		"NOME": "at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et",
+		"DTAINCLUSAO": "Oct 24, 2023",
+		"USUINCLUSAO": "Victor Golden"
+	},
+	{
+		"CATEGORIA_ID": 141,
+		"NOME": "Sed id risus quis diam luctus lobortis. Class aptent taciti",
+		"DTAINCLUSAO": "Feb 8, 2025",
+		"USUINCLUSAO": "Nomlanga Warner"
+	},
+	{
+		"CATEGORIA_ID": 142,
+		"NOME": "risus. In mi pede, nonummy ut, molestie in, tempus eu,",
+		"DTAINCLUSAO": "Jun 30, 2023",
+		"USUINCLUSAO": "Ashton Morrison"
+	},
+	{
+		"CATEGORIA_ID": 143,
+		"NOME": "augue malesuada malesuada. Integer id magna et ipsum cursus vestibulum.",
+		"DTAINCLUSAO": "Dec 11, 2023",
+		"USUINCLUSAO": "Dolan Jefferson"
+	},
+	{
+		"CATEGORIA_ID": 144,
+		"NOME": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"DTAINCLUSAO": "Jun 27, 2024",
+		"USUINCLUSAO": "Kiayada Cannon"
+	},
+	{
+		"CATEGORIA_ID": 145,
+		"NOME": "lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras",
+		"DTAINCLUSAO": "Apr 17, 2023",
+		"USUINCLUSAO": "Karen Hood"
+	},
+	{
+		"CATEGORIA_ID": 146,
+		"NOME": "est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque sed",
+		"DTAINCLUSAO": "Feb 6, 2025",
+		"USUINCLUSAO": "Melvin Salinas"
+	},
+	{
+		"CATEGORIA_ID": 147,
+		"NOME": "nulla. Donec non justo. Proin non massa non ante bibendum",
+		"DTAINCLUSAO": "Jan 28, 2024",
+		"USUINCLUSAO": "Autumn Noel"
+	},
+	{
+		"CATEGORIA_ID": 148,
+		"NOME": "vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor",
+		"DTAINCLUSAO": "Jun 17, 2024",
+		"USUINCLUSAO": "Sybill Burt"
+	},
+	{
+		"CATEGORIA_ID": 149,
+		"NOME": "arcu ac orci. Ut semper pretium neque. Morbi quis urna.",
+		"DTAINCLUSAO": "Jul 3, 2023",
+		"USUINCLUSAO": "Joel Bass"
+	},
+	{
+		"CATEGORIA_ID": 150,
+		"NOME": "ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit",
+		"DTAINCLUSAO": "May 6, 2024",
+		"USUINCLUSAO": "Kirestin Huff"
+	},
+	{
+		"CATEGORIA_ID": 151,
+		"NOME": "sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+		"DTAINCLUSAO": "Mar 11, 2025",
+		"USUINCLUSAO": "Lucas Wilder"
+	},
+	{
+		"CATEGORIA_ID": 152,
+		"NOME": "sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer",
+		"DTAINCLUSAO": "Oct 3, 2024",
+		"USUINCLUSAO": "Colin Lindsey"
+	},
+	{
+		"CATEGORIA_ID": 153,
+		"NOME": "quam quis diam. Pellentesque habitant morbi tristique senectus et netus",
+		"DTAINCLUSAO": "Apr 17, 2023",
+		"USUINCLUSAO": "Keith York"
+	},
+	{
+		"CATEGORIA_ID": 154,
+		"NOME": "mauris eu elit. Nulla facilisi. Sed neque. Sed eget lacus.",
+		"DTAINCLUSAO": "Jun 4, 2024",
+		"USUINCLUSAO": "Abra Hernandez"
+	},
+	{
+		"CATEGORIA_ID": 155,
+		"NOME": "in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu",
+		"DTAINCLUSAO": "May 3, 2023",
+		"USUINCLUSAO": "Barclay Padilla"
+	},
+	{
+		"CATEGORIA_ID": 156,
+		"NOME": "arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut",
+		"DTAINCLUSAO": "Feb 12, 2025",
+		"USUINCLUSAO": "Jescie Webb"
+	},
+	{
+		"CATEGORIA_ID": 157,
+		"NOME": "Nulla semper tellus id nunc interdum feugiat. Sed nec metus",
+		"DTAINCLUSAO": "Sep 18, 2023",
+		"USUINCLUSAO": "April Gomez"
+	},
+	{
+		"CATEGORIA_ID": 158,
+		"NOME": "in faucibus orci luctus et ultrices posuere cubilia Curae Donec",
+		"DTAINCLUSAO": "Dec 18, 2023",
+		"USUINCLUSAO": "Raphael Brady"
+	},
+	{
+		"CATEGORIA_ID": 159,
+		"NOME": "Proin vel arcu eu odio tristique pharetra. Quisque ac libero",
+		"DTAINCLUSAO": "Dec 26, 2024",
+		"USUINCLUSAO": "Simon Odom"
+	},
+	{
+		"CATEGORIA_ID": 160,
+		"NOME": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna.",
+		"DTAINCLUSAO": "Oct 19, 2024",
+		"USUINCLUSAO": "Daquan Short"
+	},
+	{
+		"CATEGORIA_ID": 161,
+		"NOME": "consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales",
+		"DTAINCLUSAO": "Oct 2, 2024",
+		"USUINCLUSAO": "Buckminster Hill"
+	},
+	{
+		"CATEGORIA_ID": 162,
+		"NOME": "consequat, lectus sit amet luctus vulputate, nisi sem semper erat,",
+		"DTAINCLUSAO": "Jan 10, 2024",
+		"USUINCLUSAO": "Jade Erickson"
+	},
+	{
+		"CATEGORIA_ID": 163,
+		"NOME": "feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum",
+		"DTAINCLUSAO": "May 14, 2023",
+		"USUINCLUSAO": "Joel Salas"
+	},
+	{
+		"CATEGORIA_ID": 164,
+		"NOME": "Cras dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis",
+		"DTAINCLUSAO": "Dec 16, 2023",
+		"USUINCLUSAO": "Herrod Taylor"
+	},
+	{
+		"CATEGORIA_ID": 165,
+		"NOME": "ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede",
+		"DTAINCLUSAO": "Oct 15, 2024",
+		"USUINCLUSAO": "Jerome Vega"
+	},
+	{
+		"CATEGORIA_ID": 166,
+		"NOME": "pellentesque, tellus sem mollis dui, in sodales elit erat vitae",
+		"DTAINCLUSAO": "Aug 19, 2023",
+		"USUINCLUSAO": "Nissim Dillard"
+	},
+	{
+		"CATEGORIA_ID": 167,
+		"NOME": "facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc",
+		"DTAINCLUSAO": "Jul 21, 2023",
+		"USUINCLUSAO": "Sydnee James"
+	},
+	{
+		"CATEGORIA_ID": 168,
+		"NOME": "Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec",
+		"DTAINCLUSAO": "Aug 13, 2024",
+		"USUINCLUSAO": "Burke Mann"
+	},
+	{
+		"CATEGORIA_ID": 169,
+		"NOME": "neque tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce",
+		"DTAINCLUSAO": "Feb 10, 2025",
+		"USUINCLUSAO": "Moses Lyons"
+	},
+	{
+		"CATEGORIA_ID": 170,
+		"NOME": "Curae Donec tincidunt. Donec vitae erat vel pede blandit congue.",
+		"DTAINCLUSAO": "Mar 13, 2025",
+		"USUINCLUSAO": "Yoshi Richard"
+	},
+	{
+		"CATEGORIA_ID": 171,
+		"NOME": "ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non,",
+		"DTAINCLUSAO": "May 16, 2024",
+		"USUINCLUSAO": "Amanda Mccormick"
+	},
+	{
+		"CATEGORIA_ID": 172,
+		"NOME": "dui quis accumsan convallis, ante lectus convallis est, vitae sodales",
+		"DTAINCLUSAO": "Dec 31, 2023",
+		"USUINCLUSAO": "Nash Castaneda"
+	},
+	{
+		"CATEGORIA_ID": 173,
+		"NOME": "nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque",
+		"DTAINCLUSAO": "Jun 10, 2023",
+		"USUINCLUSAO": "Constance Hopper"
+	},
+	{
+		"CATEGORIA_ID": 174,
+		"NOME": "consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus.",
+		"DTAINCLUSAO": "Dec 17, 2023",
+		"USUINCLUSAO": "Donovan Santiago"
+	},
+	{
+		"CATEGORIA_ID": 175,
+		"NOME": "arcu. Curabitur ut odio vel est tempor bibendum. Donec felis",
+		"DTAINCLUSAO": "Jul 1, 2024",
+		"USUINCLUSAO": "Ifeoma Cohen"
+	},
+	{
+		"CATEGORIA_ID": 176,
+		"NOME": "dis parturient montes, nascetur ridiculus mus. Proin vel arcu eu",
+		"DTAINCLUSAO": "Apr 15, 2024",
+		"USUINCLUSAO": "Kaseem Robinson"
+	},
+	{
+		"CATEGORIA_ID": 177,
+		"NOME": "ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque",
+		"DTAINCLUSAO": "Dec 3, 2024",
+		"USUINCLUSAO": "Tad Burch"
+	},
+	{
+		"CATEGORIA_ID": 178,
+		"NOME": "tempor, est ac mattis semper, dui lectus rutrum urna, nec",
+		"DTAINCLUSAO": "May 11, 2023",
+		"USUINCLUSAO": "Derek Sharp"
+	},
+	{
+		"CATEGORIA_ID": 179,
+		"NOME": "Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat",
+		"DTAINCLUSAO": "Jan 13, 2024",
+		"USUINCLUSAO": "Sylvia Ballard"
+	},
+	{
+		"CATEGORIA_ID": 180,
+		"NOME": "fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed",
+		"DTAINCLUSAO": "Nov 7, 2023",
+		"USUINCLUSAO": "Cameron Yang"
+	},
+	{
+		"CATEGORIA_ID": 181,
+		"NOME": "Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam ligula",
+		"DTAINCLUSAO": "Jul 23, 2023",
+		"USUINCLUSAO": "Blythe Valentine"
+	},
+	{
+		"CATEGORIA_ID": 182,
+		"NOME": "nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod enim.",
+		"DTAINCLUSAO": "Sep 12, 2024",
+		"USUINCLUSAO": "Felicia Sharp"
+	},
+	{
+		"CATEGORIA_ID": 183,
+		"NOME": "velit eu sem. Pellentesque ut ipsum ac mi eleifend egestas.",
+		"DTAINCLUSAO": "Dec 18, 2023",
+		"USUINCLUSAO": "Stewart Phelps"
+	},
+	{
+		"CATEGORIA_ID": 184,
+		"NOME": "risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a",
+		"DTAINCLUSAO": "Oct 18, 2023",
+		"USUINCLUSAO": "Cody Wood"
+	},
+	{
+		"CATEGORIA_ID": 185,
+		"NOME": "nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis",
+		"DTAINCLUSAO": "Sep 22, 2024",
+		"USUINCLUSAO": "Stone Benton"
+	},
+	{
+		"CATEGORIA_ID": 186,
+		"NOME": "Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus",
+		"DTAINCLUSAO": "Mar 25, 2024",
+		"USUINCLUSAO": "Hayley Pugh"
+	},
+	{
+		"CATEGORIA_ID": 187,
+		"NOME": "adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu",
+		"DTAINCLUSAO": "Jun 17, 2023",
+		"USUINCLUSAO": "Lara Cobb"
+	},
+	{
+		"CATEGORIA_ID": 188,
+		"NOME": "Sed eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies",
+		"DTAINCLUSAO": "Sep 14, 2024",
+		"USUINCLUSAO": "Laith Park"
+	},
+	{
+		"CATEGORIA_ID": 189,
+		"NOME": "dictum mi, ac mattis velit justo nec ante. Maecenas mi",
+		"DTAINCLUSAO": "Oct 6, 2023",
+		"USUINCLUSAO": "Carson Noble"
+	},
+	{
+		"CATEGORIA_ID": 190,
+		"NOME": "Quisque ac libero nec ligula consectetuer rhoncus. Nullam velit dui,",
+		"DTAINCLUSAO": "Mar 7, 2025",
+		"USUINCLUSAO": "Rudyard Meadows"
+	},
+	{
+		"CATEGORIA_ID": 191,
+		"NOME": "Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien.",
+		"DTAINCLUSAO": "Oct 2, 2023",
+		"USUINCLUSAO": "Devin Bond"
+	},
+	{
+		"CATEGORIA_ID": 192,
+		"NOME": "ornare, lectus ante dictum mi, ac mattis velit justo nec",
+		"DTAINCLUSAO": "Oct 21, 2024",
+		"USUINCLUSAO": "Wylie Murray"
+	},
+	{
+		"CATEGORIA_ID": 193,
+		"NOME": "Aenean sed pede nec ante blandit viverra. Donec tempus, lorem",
+		"DTAINCLUSAO": "Jan 26, 2025",
+		"USUINCLUSAO": "Maile Glass"
+	},
+	{
+		"CATEGORIA_ID": 194,
+		"NOME": "ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris",
+		"DTAINCLUSAO": "Aug 10, 2024",
+		"USUINCLUSAO": "Frances Hammond"
+	},
+	{
+		"CATEGORIA_ID": 195,
+		"NOME": "leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in,",
+		"DTAINCLUSAO": "Aug 1, 2023",
+		"USUINCLUSAO": "Pearl Pittman"
+	},
+	{
+		"CATEGORIA_ID": 196,
+		"NOME": "nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut",
+		"DTAINCLUSAO": "Jul 31, 2023",
+		"USUINCLUSAO": "Jaquelyn Hoover"
+	},
+	{
+		"CATEGORIA_ID": 197,
+		"NOME": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+		"DTAINCLUSAO": "Mar 21, 2024",
+		"USUINCLUSAO": "Hannah Chambers"
+	},
+	{
+		"CATEGORIA_ID": 198,
+		"NOME": "morbi tristique senectus et netus et malesuada fames ac turpis",
+		"DTAINCLUSAO": "Apr 20, 2023",
+		"USUINCLUSAO": "Nehru Gilbert"
+	},
+	{
+		"CATEGORIA_ID": 199,
+		"NOME": "Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper,",
+		"DTAINCLUSAO": "May 9, 2023",
+		"USUINCLUSAO": "Imelda Sherman"
+	},
+	{
+		"CATEGORIA_ID": 200,
+		"NOME": "a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras",
+		"DTAINCLUSAO": "Aug 26, 2023",
+		"USUINCLUSAO": "Jada Rodgers"
+	},
+	{
+		"CATEGORIA_ID": 201,
+		"NOME": "Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed",
+		"DTAINCLUSAO": "Apr 4, 2024",
+		"USUINCLUSAO": "Phillip Leach"
+	},
+	{
+		"CATEGORIA_ID": 202,
+		"NOME": "tristique pellentesque, tellus sem mollis dui, in sodales elit erat",
+		"DTAINCLUSAO": "Feb 13, 2024",
+		"USUINCLUSAO": "Kyle Lindsey"
+	},
+	{
+		"CATEGORIA_ID": 203,
+		"NOME": "Donec at arcu. Vestibulum ante ipsum primis in faucibus orci",
+		"DTAINCLUSAO": "Apr 19, 2023",
+		"USUINCLUSAO": "Irene Atkins"
+	},
+	{
+		"CATEGORIA_ID": 204,
+		"NOME": "scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu",
+		"DTAINCLUSAO": "Nov 30, 2023",
+		"USUINCLUSAO": "Hammett Olsen"
+	},
+	{
+		"CATEGORIA_ID": 205,
+		"NOME": "at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada",
+		"DTAINCLUSAO": "Aug 23, 2024",
+		"USUINCLUSAO": "Igor Brewer"
+	},
+	{
+		"CATEGORIA_ID": 206,
+		"NOME": "amet nulla. Donec non justo. Proin non massa non ante",
+		"DTAINCLUSAO": "Dec 22, 2023",
+		"USUINCLUSAO": "Stone Mcdaniel"
+	},
+	{
+		"CATEGORIA_ID": 207,
+		"NOME": "parturient montes, nascetur ridiculus mus. Proin vel arcu eu odio",
+		"DTAINCLUSAO": "May 14, 2024",
+		"USUINCLUSAO": "Jarrod Ballard"
+	},
+	{
+		"CATEGORIA_ID": 208,
+		"NOME": "tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum ante",
+		"DTAINCLUSAO": "Mar 30, 2025",
+		"USUINCLUSAO": "Clayton Holland"
+	},
+	{
+		"CATEGORIA_ID": 209,
+		"NOME": "et risus. Quisque libero lacus, varius et, euismod et, commodo",
+		"DTAINCLUSAO": "Jan 26, 2024",
+		"USUINCLUSAO": "Erich Oliver"
+	},
+	{
+		"CATEGORIA_ID": 210,
+		"NOME": "mauris, aliquam eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus",
+		"DTAINCLUSAO": "Jan 15, 2024",
+		"USUINCLUSAO": "Sawyer Long"
+	},
+	{
+		"CATEGORIA_ID": 211,
+		"NOME": "pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper,",
+		"DTAINCLUSAO": "Mar 20, 2024",
+		"USUINCLUSAO": "Andrew Barr"
+	},
+	{
+		"CATEGORIA_ID": 212,
+		"NOME": "nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis",
+		"DTAINCLUSAO": "Feb 7, 2024",
+		"USUINCLUSAO": "Zachary Sexton"
+	},
+	{
+		"CATEGORIA_ID": 213,
+		"NOME": "sagittis augue, eu tempor erat neque non quam. Pellentesque habitant",
+		"DTAINCLUSAO": "May 7, 2023",
+		"USUINCLUSAO": "Len Finch"
+	},
+	{
+		"CATEGORIA_ID": 214,
+		"NOME": "mattis semper, dui lectus rutrum urna, nec luctus felis purus",
+		"DTAINCLUSAO": "Dec 31, 2024",
+		"USUINCLUSAO": "Naomi Sharpe"
+	},
+	{
+		"CATEGORIA_ID": 215,
+		"NOME": "nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
+		"DTAINCLUSAO": "Jan 19, 2025",
+		"USUINCLUSAO": "Nathan Jones"
+	},
+	{
+		"CATEGORIA_ID": 216,
+		"NOME": "nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod enim.",
+		"DTAINCLUSAO": "Jul 16, 2024",
+		"USUINCLUSAO": "Bruce Whitney"
+	},
+	{
+		"CATEGORIA_ID": 217,
+		"NOME": "Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum",
+		"DTAINCLUSAO": "Dec 22, 2024",
+		"USUINCLUSAO": "Raphael Fuller"
+	},
+	{
+		"CATEGORIA_ID": 218,
+		"NOME": "non, luctus sit amet, faucibus ut, nulla. Cras eu tellus",
+		"DTAINCLUSAO": "Jul 15, 2023",
+		"USUINCLUSAO": "Erasmus Miles"
+	},
+	{
+		"CATEGORIA_ID": 219,
+		"NOME": "nibh vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam",
+		"DTAINCLUSAO": "Jun 12, 2024",
+		"USUINCLUSAO": "Iona Wright"
+	},
+	{
+		"CATEGORIA_ID": 220,
+		"NOME": "Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus",
+		"DTAINCLUSAO": "Apr 22, 2023",
+		"USUINCLUSAO": "Bo Doyle"
+	},
+	{
+		"CATEGORIA_ID": 221,
+		"NOME": "velit eu sem. Pellentesque ut ipsum ac mi eleifend egestas.",
+		"DTAINCLUSAO": "Feb 23, 2024",
+		"USUINCLUSAO": "Hayden Pruitt"
+	},
+	{
+		"CATEGORIA_ID": 222,
+		"NOME": "sodales nisi magna sed dui. Fusce aliquam, enim nec tempus",
+		"DTAINCLUSAO": "Mar 19, 2024",
+		"USUINCLUSAO": "Ali Barrett"
+	},
+	{
+		"CATEGORIA_ID": 223,
+		"NOME": "montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod",
+		"DTAINCLUSAO": "Nov 10, 2023",
+		"USUINCLUSAO": "Delilah Bartlett"
+	},
+	{
+		"CATEGORIA_ID": 224,
+		"NOME": "lacus. Etiam bibendum fermentum metus. Aenean sed pede nec ante",
+		"DTAINCLUSAO": "May 11, 2024",
+		"USUINCLUSAO": "Britanney Marks"
+	},
+	{
+		"CATEGORIA_ID": 225,
+		"NOME": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,",
+		"DTAINCLUSAO": "Jan 15, 2024",
+		"USUINCLUSAO": "Nicholas Shepherd"
+	},
+	{
+		"CATEGORIA_ID": 226,
+		"NOME": "Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue,",
+		"DTAINCLUSAO": "Aug 16, 2024",
+		"USUINCLUSAO": "Tucker Anthony"
+	},
+	{
+		"CATEGORIA_ID": 227,
+		"NOME": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc",
+		"DTAINCLUSAO": "Sep 7, 2024",
+		"USUINCLUSAO": "Garrison Potter"
+	},
+	{
+		"CATEGORIA_ID": 228,
+		"NOME": "tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec",
+		"DTAINCLUSAO": "Aug 11, 2023",
+		"USUINCLUSAO": "Adam Mayo"
+	},
+	{
+		"CATEGORIA_ID": 229,
+		"NOME": "Cras eget nisi dictum augue malesuada malesuada. Integer id magna",
+		"DTAINCLUSAO": "Apr 8, 2025",
+		"USUINCLUSAO": "Shelley Barnes"
+	},
+	{
+		"CATEGORIA_ID": 230,
+		"NOME": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet,",
+		"DTAINCLUSAO": "May 14, 2024",
+		"USUINCLUSAO": "Hammett Moody"
+	},
+	{
+		"CATEGORIA_ID": 231,
+		"NOME": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer,",
+		"DTAINCLUSAO": "May 23, 2023",
+		"USUINCLUSAO": "Keaton Clements"
+	},
+	{
+		"CATEGORIA_ID": 232,
+		"NOME": "semper pretium neque. Morbi quis urna. Nunc quis arcu vel",
+		"DTAINCLUSAO": "Nov 15, 2024",
+		"USUINCLUSAO": "Louis Gibbs"
+	},
+	{
+		"CATEGORIA_ID": 233,
+		"NOME": "a feugiat tellus lorem eu metus. In lorem. Donec elementum,",
+		"DTAINCLUSAO": "Dec 2, 2023",
+		"USUINCLUSAO": "Charlotte Mayo"
+	},
+	{
+		"CATEGORIA_ID": 234,
+		"NOME": "Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna.",
+		"DTAINCLUSAO": "Feb 18, 2024",
+		"USUINCLUSAO": "Virginia Beasley"
+	},
+	{
+		"CATEGORIA_ID": 235,
+		"NOME": "Quisque ornare tortor at risus. Nunc ac sem ut dolor",
+		"DTAINCLUSAO": "Aug 21, 2024",
+		"USUINCLUSAO": "Louis Livingston"
+	},
+	{
+		"CATEGORIA_ID": 236,
+		"NOME": "ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci",
+		"DTAINCLUSAO": "Jul 2, 2023",
+		"USUINCLUSAO": "Wesley Hodges"
+	},
+	{
+		"CATEGORIA_ID": 237,
+		"NOME": "Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper,",
+		"DTAINCLUSAO": "Dec 8, 2024",
+		"USUINCLUSAO": "Arsenio Booth"
+	},
+	{
+		"CATEGORIA_ID": 238,
+		"NOME": "massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis",
+		"DTAINCLUSAO": "Dec 8, 2024",
+		"USUINCLUSAO": "Uriel Moses"
+	},
+	{
+		"CATEGORIA_ID": 239,
+		"NOME": "Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor,",
+		"DTAINCLUSAO": "Nov 14, 2023",
+		"USUINCLUSAO": "Clio Serrano"
+	},
+	{
+		"CATEGORIA_ID": 240,
+		"NOME": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+		"DTAINCLUSAO": "Feb 2, 2024",
+		"USUINCLUSAO": "Tyrone Ray"
+	},
+	{
+		"CATEGORIA_ID": 241,
+		"NOME": "magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor",
+		"DTAINCLUSAO": "Jun 12, 2024",
+		"USUINCLUSAO": "Jonah Ryan"
+	},
+	{
+		"CATEGORIA_ID": 242,
+		"NOME": "ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae,",
+		"DTAINCLUSAO": "Mar 14, 2024",
+		"USUINCLUSAO": "Chaney West"
+	},
+	{
+		"CATEGORIA_ID": 243,
+		"NOME": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna.",
+		"DTAINCLUSAO": "May 16, 2024",
+		"USUINCLUSAO": "Justina Robbins"
+	},
+	{
+		"CATEGORIA_ID": 244,
+		"NOME": "Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+		"DTAINCLUSAO": "Jul 16, 2024",
+		"USUINCLUSAO": "Justina Hayes"
+	},
+	{
+		"CATEGORIA_ID": 245,
+		"NOME": "In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas",
+		"DTAINCLUSAO": "Jun 13, 2024",
+		"USUINCLUSAO": "Silas Prince"
+	},
+	{
+		"CATEGORIA_ID": 246,
+		"NOME": "diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus",
+		"DTAINCLUSAO": "Jun 23, 2023",
+		"USUINCLUSAO": "Lewis Graves"
+	},
+	{
+		"CATEGORIA_ID": 247,
+		"NOME": "sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales.",
+		"DTAINCLUSAO": "Sep 21, 2023",
+		"USUINCLUSAO": "Alfonso Petersen"
+	},
+	{
+		"CATEGORIA_ID": 248,
+		"NOME": "felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",
+		"DTAINCLUSAO": "Sep 30, 2024",
+		"USUINCLUSAO": "Carly Castaneda"
+	},
+	{
+		"CATEGORIA_ID": 249,
+		"NOME": "fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat",
+		"DTAINCLUSAO": "Dec 19, 2023",
+		"USUINCLUSAO": "Naida O'donnell"
+	},
+	{
+		"CATEGORIA_ID": 250,
+		"NOME": "pede, malesuada vel, venenatis vel, faucibus id, libero. Donec consectetuer",
+		"DTAINCLUSAO": "Jun 25, 2024",
+		"USUINCLUSAO": "Iris Cooke"
+	},
+	{
+		"CATEGORIA_ID": 251,
+		"NOME": "sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy",
+		"DTAINCLUSAO": "Mar 31, 2024",
+		"USUINCLUSAO": "Callie Cunningham"
+	},
+	{
+		"CATEGORIA_ID": 252,
+		"NOME": "ut cursus luctus, ipsum leo elementum sem, vitae aliquam eros",
+		"DTAINCLUSAO": "May 13, 2023",
+		"USUINCLUSAO": "Riley Bright"
+	},
+	{
+		"CATEGORIA_ID": 253,
+		"NOME": "amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat.",
+		"DTAINCLUSAO": "Jun 27, 2023",
+		"USUINCLUSAO": "Palmer Morton"
+	},
+	{
+		"CATEGORIA_ID": 254,
+		"NOME": "risus quis diam luctus lobortis. Class aptent taciti sociosqu ad",
+		"DTAINCLUSAO": "Dec 3, 2024",
+		"USUINCLUSAO": "Piper Haney"
+	},
+	{
+		"CATEGORIA_ID": 255,
+		"NOME": "in sodales elit erat vitae risus. Duis a mi fringilla",
+		"DTAINCLUSAO": "Jan 2, 2024",
+		"USUINCLUSAO": "Gary Mcknight"
+	},
+	{
+		"CATEGORIA_ID": 256,
+		"NOME": "mauris blandit mattis. Cras eget nisi dictum augue malesuada malesuada.",
+		"DTAINCLUSAO": "Nov 25, 2023",
+		"USUINCLUSAO": "Willow Acosta"
+	},
+	{
+		"CATEGORIA_ID": 257,
+		"NOME": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+		"DTAINCLUSAO": "Nov 3, 2024",
+		"USUINCLUSAO": "Rhona Andrews"
+	},
+	{
+		"CATEGORIA_ID": 258,
+		"NOME": "sed dictum eleifend, nunc risus varius orci, in consequat enim",
+		"DTAINCLUSAO": "Sep 5, 2023",
+		"USUINCLUSAO": "Heidi Rivera"
+	},
+	{
+		"CATEGORIA_ID": 259,
+		"NOME": "nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in",
+		"DTAINCLUSAO": "Dec 3, 2023",
+		"USUINCLUSAO": "Howard Leach"
+	},
+	{
+		"CATEGORIA_ID": 260,
+		"NOME": "enim nisl elementum purus, accumsan interdum libero dui nec ipsum.",
+		"DTAINCLUSAO": "Aug 16, 2024",
+		"USUINCLUSAO": "Martena Le"
+	},
+	{
+		"CATEGORIA_ID": 261,
+		"NOME": "arcu iaculis enim, sit amet ornare lectus justo eu arcu.",
+		"DTAINCLUSAO": "Sep 29, 2024",
+		"USUINCLUSAO": "Barbara Fuller"
+	},
+	{
+		"CATEGORIA_ID": 262,
+		"NOME": "blandit at, nisi. Cum sociis natoque penatibus et magnis dis",
+		"DTAINCLUSAO": "Dec 15, 2024",
+		"USUINCLUSAO": "Amber Garza"
+	},
+	{
+		"CATEGORIA_ID": 263,
+		"NOME": "iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur",
+		"DTAINCLUSAO": "Oct 3, 2023",
+		"USUINCLUSAO": "Quamar Wall"
+	},
+	{
+		"CATEGORIA_ID": 264,
+		"NOME": "Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
+		"DTAINCLUSAO": "Feb 18, 2025",
+		"USUINCLUSAO": "Keiko Norton"
+	},
+	{
+		"CATEGORIA_ID": 265,
+		"NOME": "iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac,",
+		"DTAINCLUSAO": "Mar 1, 2025",
+		"USUINCLUSAO": "Libby Wall"
+	},
+	{
+		"CATEGORIA_ID": 266,
+		"NOME": "risus a ultricies adipiscing, enim mi tempor lorem, eget mollis",
+		"DTAINCLUSAO": "Mar 4, 2025",
+		"USUINCLUSAO": "Ifeoma Stafford"
+	},
+	{
+		"CATEGORIA_ID": 267,
+		"NOME": "imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non,",
+		"DTAINCLUSAO": "Apr 1, 2025",
+		"USUINCLUSAO": "Colleen Hale"
+	},
+	{
+		"CATEGORIA_ID": 268,
+		"NOME": "Quisque libero lacus, varius et, euismod et, commodo at, libero.",
+		"DTAINCLUSAO": "Nov 21, 2023",
+		"USUINCLUSAO": "Patience Preston"
+	},
+	{
+		"CATEGORIA_ID": 269,
+		"NOME": "Praesent eu nulla at sem molestie sodales. Mauris blandit enim",
+		"DTAINCLUSAO": "Jan 21, 2025",
+		"USUINCLUSAO": "Lynn Pruitt"
+	},
+	{
+		"CATEGORIA_ID": 270,
+		"NOME": "Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna",
+		"DTAINCLUSAO": "Oct 31, 2024",
+		"USUINCLUSAO": "Kathleen Wright"
+	},
+	{
+		"CATEGORIA_ID": 271,
+		"NOME": "fringilla cursus purus. Nullam scelerisque neque sed sem egestas blandit.",
+		"DTAINCLUSAO": "Aug 25, 2024",
+		"USUINCLUSAO": "Samson Knowles"
+	},
+	{
+		"CATEGORIA_ID": 272,
+		"NOME": "hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus.",
+		"DTAINCLUSAO": "Jul 8, 2024",
+		"USUINCLUSAO": "Kermit Mclean"
+	},
+	{
+		"CATEGORIA_ID": 273,
+		"NOME": "hendrerit. Donec porttitor tellus non magna. Nam ligula elit, pretium",
+		"DTAINCLUSAO": "Aug 25, 2023",
+		"USUINCLUSAO": "Upton Moon"
+	},
+	{
+		"CATEGORIA_ID": 274,
+		"NOME": "aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in",
+		"DTAINCLUSAO": "Dec 28, 2024",
+		"USUINCLUSAO": "Theodore Rowland"
+	},
+	{
+		"CATEGORIA_ID": 275,
+		"NOME": "Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin",
+		"DTAINCLUSAO": "Jul 6, 2024",
+		"USUINCLUSAO": "Scarlett Hickman"
+	},
+	{
+		"CATEGORIA_ID": 276,
+		"NOME": "vitae mauris sit amet lorem semper auctor. Mauris vel turpis.",
+		"DTAINCLUSAO": "Aug 23, 2023",
+		"USUINCLUSAO": "Cassandra York"
+	},
+	{
+		"CATEGORIA_ID": 277,
+		"NOME": "orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna",
+		"DTAINCLUSAO": "Dec 16, 2023",
+		"USUINCLUSAO": "Nita Hahn"
+	},
+	{
+		"CATEGORIA_ID": 278,
+		"NOME": "ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus",
+		"DTAINCLUSAO": "Aug 9, 2024",
+		"USUINCLUSAO": "Libby Banks"
+	},
+	{
+		"CATEGORIA_ID": 279,
+		"NOME": "cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut",
+		"DTAINCLUSAO": "Feb 7, 2024",
+		"USUINCLUSAO": "Carla Howe"
+	},
+	{
+		"CATEGORIA_ID": 280,
+		"NOME": "dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada",
+		"DTAINCLUSAO": "Nov 26, 2024",
+		"USUINCLUSAO": "Jacob Contreras"
+	},
+	{
+		"CATEGORIA_ID": 281,
+		"NOME": "risus odio, auctor vitae, aliquet nec, imperdiet nec, leo. Morbi",
+		"DTAINCLUSAO": "Jan 25, 2025",
+		"USUINCLUSAO": "Fritz Patrick"
+	},
+	{
+		"CATEGORIA_ID": 282,
+		"NOME": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+		"DTAINCLUSAO": "Dec 7, 2024",
+		"USUINCLUSAO": "Nell Kennedy"
+	},
+	{
+		"CATEGORIA_ID": 283,
+		"NOME": "Nunc pulvinar arcu et pede. Nunc sed orci lobortis augue",
+		"DTAINCLUSAO": "Jan 13, 2025",
+		"USUINCLUSAO": "Vladimir Sears"
+	},
+	{
+		"CATEGORIA_ID": 284,
+		"NOME": "Ut semper pretium neque. Morbi quis urna. Nunc quis arcu",
+		"DTAINCLUSAO": "Sep 14, 2023",
+		"USUINCLUSAO": "Linus Ferguson"
+	},
+	{
+		"CATEGORIA_ID": 285,
+		"NOME": "scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit",
+		"DTAINCLUSAO": "Jul 11, 2023",
+		"USUINCLUSAO": "Lev Moses"
+	},
+	{
+		"CATEGORIA_ID": 286,
+		"NOME": "mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed",
+		"DTAINCLUSAO": "Mar 20, 2024",
+		"USUINCLUSAO": "Odette Hunt"
+	},
+	{
+		"CATEGORIA_ID": 287,
+		"NOME": "risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed",
+		"DTAINCLUSAO": "Apr 18, 2024",
+		"USUINCLUSAO": "Judith Bass"
+	},
+	{
+		"CATEGORIA_ID": 288,
+		"NOME": "aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt,",
+		"DTAINCLUSAO": "Apr 15, 2023",
+		"USUINCLUSAO": "Ezra Burt"
+	},
+	{
+		"CATEGORIA_ID": 289,
+		"NOME": "gravida molestie arcu. Sed eu nibh vulputate mauris sagittis placerat.",
+		"DTAINCLUSAO": "Feb 12, 2025",
+		"USUINCLUSAO": "Connor Albert"
+	},
+	{
+		"CATEGORIA_ID": 290,
+		"NOME": "vulputate dui, nec tempus mauris erat eget ipsum. Suspendisse sagittis.",
+		"DTAINCLUSAO": "Jul 11, 2024",
+		"USUINCLUSAO": "Nina Steele"
+	},
+	{
+		"CATEGORIA_ID": 291,
+		"NOME": "libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus",
+		"DTAINCLUSAO": "Aug 21, 2024",
+		"USUINCLUSAO": "Blake Chavez"
+	},
+	{
+		"CATEGORIA_ID": 292,
+		"NOME": "morbi tristique senectus et netus et malesuada fames ac turpis",
+		"DTAINCLUSAO": "May 26, 2023",
+		"USUINCLUSAO": "Axel Erickson"
+	},
+	{
+		"CATEGORIA_ID": 293,
+		"NOME": "augue porttitor interdum. Sed auctor odio a purus. Duis elementum,",
+		"DTAINCLUSAO": "Apr 9, 2025",
+		"USUINCLUSAO": "Buckminster Kidd"
+	},
+	{
+		"CATEGORIA_ID": 294,
+		"NOME": "augue. Sed molestie. Sed id risus quis diam luctus lobortis.",
+		"DTAINCLUSAO": "Nov 2, 2024",
+		"USUINCLUSAO": "Sage Marsh"
+	},
+	{
+		"CATEGORIA_ID": 295,
+		"NOME": "purus. Maecenas libero est, congue a, aliquet vel, vulputate eu,",
+		"DTAINCLUSAO": "Jul 10, 2024",
+		"USUINCLUSAO": "Driscoll Barrett"
+	},
+	{
+		"CATEGORIA_ID": 296,
+		"NOME": "sem semper erat, in consectetuer ipsum nunc id enim. Curabitur",
+		"DTAINCLUSAO": "Jun 22, 2023",
+		"USUINCLUSAO": "Sonia Nichols"
+	},
+	{
+		"CATEGORIA_ID": 297,
+		"NOME": "Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi",
+		"DTAINCLUSAO": "Dec 19, 2024",
+		"USUINCLUSAO": "Dillon Vega"
+	},
+	{
+		"CATEGORIA_ID": 298,
+		"NOME": "ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam",
+		"DTAINCLUSAO": "Sep 2, 2024",
+		"USUINCLUSAO": "Tarik Medina"
+	},
+	{
+		"CATEGORIA_ID": 299,
+		"NOME": "amet luctus vulputate, nisi sem semper erat, in consectetuer ipsum",
+		"DTAINCLUSAO": "Jun 20, 2023",
+		"USUINCLUSAO": "Sharon Neal"
+	},
+	{
+		"CATEGORIA_ID": 300,
+		"NOME": "Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
+		"DTAINCLUSAO": "May 16, 2023",
+		"USUINCLUSAO": "Zelenia Powell"
+	},
+	{
+		"CATEGORIA_ID": 301,
+		"NOME": "mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque. In",
+		"DTAINCLUSAO": "Sep 10, 2023",
+		"USUINCLUSAO": "Wyatt Johnston"
+	},
+	{
+		"CATEGORIA_ID": 302,
+		"NOME": "Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean",
+		"DTAINCLUSAO": "Jan 29, 2024",
+		"USUINCLUSAO": "Yolanda Hall"
+	},
+	{
+		"CATEGORIA_ID": 303,
+		"NOME": "Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+		"DTAINCLUSAO": "Dec 22, 2023",
+		"USUINCLUSAO": "Sacha Houston"
+	},
+	{
+		"CATEGORIA_ID": 304,
+		"NOME": "Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem,",
+		"DTAINCLUSAO": "Aug 10, 2024",
+		"USUINCLUSAO": "Briar Burke"
+	},
+	{
+		"CATEGORIA_ID": 305,
+		"NOME": "Cras vehicula aliquet libero. Integer in magna. Phasellus dolor elit,",
+		"DTAINCLUSAO": "Jul 14, 2023",
+		"USUINCLUSAO": "Scarlett Pacheco"
+	},
+	{
+		"CATEGORIA_ID": 306,
+		"NOME": "consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque",
+		"DTAINCLUSAO": "Jan 1, 2024",
+		"USUINCLUSAO": "Timothy Huffman"
+	},
+	{
+		"CATEGORIA_ID": 307,
+		"NOME": "Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus",
+		"DTAINCLUSAO": "Oct 17, 2024",
+		"USUINCLUSAO": "Chantale Newman"
+	},
+	{
+		"CATEGORIA_ID": 308,
+		"NOME": "orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit",
+		"DTAINCLUSAO": "Nov 30, 2023",
+		"USUINCLUSAO": "David Brewer"
+	},
+	{
+		"CATEGORIA_ID": 309,
+		"NOME": "rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin",
+		"DTAINCLUSAO": "Dec 30, 2024",
+		"USUINCLUSAO": "Donna Adams"
+	},
+	{
+		"CATEGORIA_ID": 310,
+		"NOME": "eu tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus",
+		"DTAINCLUSAO": "Oct 17, 2024",
+		"USUINCLUSAO": "Timothy Melendez"
+	},
+	{
+		"CATEGORIA_ID": 311,
+		"NOME": "luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec",
+		"DTAINCLUSAO": "Oct 31, 2023",
+		"USUINCLUSAO": "Evan Carey"
+	},
+	{
+		"CATEGORIA_ID": 312,
+		"NOME": "condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus",
+		"DTAINCLUSAO": "Oct 23, 2023",
+		"USUINCLUSAO": "Karleigh Castillo"
+	},
+	{
+		"CATEGORIA_ID": 313,
+		"NOME": "pede nec ante blandit viverra. Donec tempus, lorem fringilla ornare",
+		"DTAINCLUSAO": "Apr 21, 2024",
+		"USUINCLUSAO": "Dante Holt"
+	},
+	{
+		"CATEGORIA_ID": 314,
+		"NOME": "mi lorem, vehicula et, rutrum eu, ultrices sit amet, risus.",
+		"DTAINCLUSAO": "May 5, 2024",
+		"USUINCLUSAO": "Maite Banks"
+	},
+	{
+		"CATEGORIA_ID": 315,
+		"NOME": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat.",
+		"DTAINCLUSAO": "Jul 31, 2023",
+		"USUINCLUSAO": "Selma Swanson"
+	},
+	{
+		"CATEGORIA_ID": 316,
+		"NOME": "mauris id sapien. Cras dolor dolor, tempus non, lacinia at,",
+		"DTAINCLUSAO": "Sep 12, 2023",
+		"USUINCLUSAO": "Clio Ratliff"
+	},
+	{
+		"CATEGORIA_ID": 317,
+		"NOME": "enim, gravida sit amet, dapibus id, blandit at, nisi. Cum",
+		"DTAINCLUSAO": "Oct 4, 2024",
+		"USUINCLUSAO": "Lillian Hayes"
+	},
+	{
+		"CATEGORIA_ID": 318,
+		"NOME": "Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor",
+		"DTAINCLUSAO": "Mar 27, 2024",
+		"USUINCLUSAO": "Armand Barton"
+	},
+	{
+		"CATEGORIA_ID": 319,
+		"NOME": "mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla,",
+		"DTAINCLUSAO": "Jul 7, 2023",
+		"USUINCLUSAO": "Amethyst Newton"
+	},
+	{
+		"CATEGORIA_ID": 320,
+		"NOME": "quis accumsan convallis, ante lectus convallis est, vitae sodales nisi",
+		"DTAINCLUSAO": "May 29, 2023",
+		"USUINCLUSAO": "Levi Deleon"
+	},
+	{
+		"CATEGORIA_ID": 321,
+		"NOME": "lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras",
+		"DTAINCLUSAO": "Feb 21, 2024",
+		"USUINCLUSAO": "Cody Wright"
+	},
+	{
+		"CATEGORIA_ID": 322,
+		"NOME": "malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis",
+		"DTAINCLUSAO": "Jul 8, 2023",
+		"USUINCLUSAO": "Shelly Stephens"
+	},
+	{
+		"CATEGORIA_ID": 323,
+		"NOME": "non quam. Pellentesque habitant morbi tristique senectus et netus et",
+		"DTAINCLUSAO": "Aug 26, 2024",
+		"USUINCLUSAO": "Cameron Burgess"
+	},
+	{
+		"CATEGORIA_ID": 324,
+		"NOME": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel arcu",
+		"DTAINCLUSAO": "Oct 18, 2023",
+		"USUINCLUSAO": "Hilel Page"
+	},
+	{
+		"CATEGORIA_ID": 325,
+		"NOME": "enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin",
+		"DTAINCLUSAO": "Dec 24, 2023",
+		"USUINCLUSAO": "Dillon Fulton"
+	},
+	{
+		"CATEGORIA_ID": 326,
+		"NOME": "tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer",
+		"DTAINCLUSAO": "Mar 26, 2025",
+		"USUINCLUSAO": "Dorothy Franco"
+	},
+	{
+		"CATEGORIA_ID": 327,
+		"NOME": "Sed et libero. Proin mi. Aliquam gravida mauris ut mi.",
+		"DTAINCLUSAO": "Sep 2, 2024",
+		"USUINCLUSAO": "Davis Kelley"
+	},
+	{
+		"CATEGORIA_ID": 328,
+		"NOME": "diam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+		"DTAINCLUSAO": "Sep 9, 2023",
+		"USUINCLUSAO": "Iris Petersen"
+	},
+	{
+		"CATEGORIA_ID": 329,
+		"NOME": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"DTAINCLUSAO": "Jan 12, 2024",
+		"USUINCLUSAO": "Ila Galloway"
+	},
+	{
+		"CATEGORIA_ID": 330,
+		"NOME": "Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit.",
+		"DTAINCLUSAO": "Aug 24, 2024",
+		"USUINCLUSAO": "Cade Horton"
+	},
+	{
+		"CATEGORIA_ID": 331,
+		"NOME": "Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,",
+		"DTAINCLUSAO": "Nov 24, 2024",
+		"USUINCLUSAO": "Ori Gonzalez"
+	},
+	{
+		"CATEGORIA_ID": 332,
+		"NOME": "aliquet magna a neque. Nullam ut nisi a odio semper",
+		"DTAINCLUSAO": "Apr 11, 2024",
+		"USUINCLUSAO": "Nolan Rutledge"
+	},
+	{
+		"CATEGORIA_ID": 333,
+		"NOME": "ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et,",
+		"DTAINCLUSAO": "Aug 28, 2023",
+		"USUINCLUSAO": "Hop Holden"
+	},
+	{
+		"CATEGORIA_ID": 334,
+		"NOME": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+		"DTAINCLUSAO": "Mar 10, 2025",
+		"USUINCLUSAO": "Emily Shepard"
+	},
+	{
+		"CATEGORIA_ID": 335,
+		"NOME": "ac urna. Ut tincidunt vehicula risus. Nulla eget metus eu",
+		"DTAINCLUSAO": "Mar 11, 2024",
+		"USUINCLUSAO": "Gary Neal"
+	},
+	{
+		"CATEGORIA_ID": 336,
+		"NOME": "Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id,",
+		"DTAINCLUSAO": "Jul 3, 2023",
+		"USUINCLUSAO": "Channing Knapp"
+	},
+	{
+		"CATEGORIA_ID": 337,
+		"NOME": "nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor",
+		"DTAINCLUSAO": "Sep 10, 2023",
+		"USUINCLUSAO": "Maris Cunningham"
+	},
+	{
+		"CATEGORIA_ID": 338,
+		"NOME": "dolor dolor, tempus non, lacinia at, iaculis quis, pede. Praesent",
+		"DTAINCLUSAO": "Mar 4, 2025",
+		"USUINCLUSAO": "Isadora Vinson"
+	},
+	{
+		"CATEGORIA_ID": 339,
+		"NOME": "nibh. Donec est mauris, rhoncus id, mollis nec, cursus a,",
+		"DTAINCLUSAO": "Aug 31, 2023",
+		"USUINCLUSAO": "Nell Hawkins"
+	},
+	{
+		"CATEGORIA_ID": 340,
+		"NOME": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
+		"DTAINCLUSAO": "Jul 6, 2023",
+		"USUINCLUSAO": "Camille Lawrence"
+	},
+	{
+		"CATEGORIA_ID": 341,
+		"NOME": "erat neque non quam. Pellentesque habitant morbi tristique senectus et",
+		"DTAINCLUSAO": "Aug 13, 2023",
+		"USUINCLUSAO": "Emerald Burns"
+	},
+	{
+		"CATEGORIA_ID": 342,
+		"NOME": "In condimentum. Donec at arcu. Vestibulum ante ipsum primis in",
+		"DTAINCLUSAO": "Aug 27, 2023",
+		"USUINCLUSAO": "Boris Conrad"
+	},
+	{
+		"CATEGORIA_ID": 343,
+		"NOME": "sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis",
+		"DTAINCLUSAO": "Sep 24, 2024",
+		"USUINCLUSAO": "Alexander Mullen"
+	},
+	{
+		"CATEGORIA_ID": 344,
+		"NOME": "Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+		"DTAINCLUSAO": "Oct 12, 2023",
+		"USUINCLUSAO": "Miriam Miranda"
+	},
+	{
+		"CATEGORIA_ID": 345,
+		"NOME": "dignissim lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus",
+		"DTAINCLUSAO": "Feb 25, 2024",
+		"USUINCLUSAO": "Lionel Robbins"
+	},
+	{
+		"CATEGORIA_ID": 346,
+		"NOME": "velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae",
+		"DTAINCLUSAO": "Nov 12, 2023",
+		"USUINCLUSAO": "Kylynn Woodward"
+	},
+	{
+		"CATEGORIA_ID": 347,
+		"NOME": "auctor non, feugiat nec, diam. Duis mi enim, condimentum eget,",
+		"DTAINCLUSAO": "Nov 17, 2023",
+		"USUINCLUSAO": "Deborah Barron"
+	},
+	{
+		"CATEGORIA_ID": 348,
+		"NOME": "Aliquam gravida mauris ut mi. Duis risus odio, auctor vitae,",
+		"DTAINCLUSAO": "Aug 22, 2024",
+		"USUINCLUSAO": "Phillip Knapp"
+	},
+	{
+		"CATEGORIA_ID": 349,
+		"NOME": "quis, pede. Praesent eu dui. Cum sociis natoque penatibus et",
+		"DTAINCLUSAO": "Jul 25, 2023",
+		"USUINCLUSAO": "Hasad Guy"
+	},
+	{
+		"CATEGORIA_ID": 350,
+		"NOME": "faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend.",
+		"DTAINCLUSAO": "Dec 16, 2024",
+		"USUINCLUSAO": "Phelan Lambert"
+	},
+	{
+		"CATEGORIA_ID": 351,
+		"NOME": "Phasellus dolor elit, pellentesque a, facilisis non, bibendum sed, est.",
+		"DTAINCLUSAO": "Aug 1, 2024",
+		"USUINCLUSAO": "Isabelle Galloway"
+	},
+	{
+		"CATEGORIA_ID": 352,
+		"NOME": "eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis",
+		"DTAINCLUSAO": "Nov 5, 2024",
+		"USUINCLUSAO": "Plato Little"
+	},
+	{
+		"CATEGORIA_ID": 353,
+		"NOME": "primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+		"DTAINCLUSAO": "Jan 27, 2024",
+		"USUINCLUSAO": "Cairo Buckner"
+	},
+	{
+		"CATEGORIA_ID": 354,
+		"NOME": "eu elit. Nulla facilisi. Sed neque. Sed eget lacus. Mauris",
+		"DTAINCLUSAO": "Jul 10, 2024",
+		"USUINCLUSAO": "Ali Andrews"
+	},
+	{
+		"CATEGORIA_ID": 355,
+		"NOME": "nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
+		"DTAINCLUSAO": "Jun 30, 2024",
+		"USUINCLUSAO": "Hiram Leonard"
+	},
+	{
+		"CATEGORIA_ID": 356,
+		"NOME": "tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum ante",
+		"DTAINCLUSAO": "Jan 21, 2024",
+		"USUINCLUSAO": "Keith Baird"
+	},
+	{
+		"CATEGORIA_ID": 357,
+		"NOME": "mauris blandit mattis. Cras eget nisi dictum augue malesuada malesuada.",
+		"DTAINCLUSAO": "Mar 30, 2025",
+		"USUINCLUSAO": "Kuame Yates"
+	},
+	{
+		"CATEGORIA_ID": 358,
+		"NOME": "eu erat semper rutrum. Fusce dolor quam, elementum at, egestas",
+		"DTAINCLUSAO": "May 31, 2023",
+		"USUINCLUSAO": "Hayes Schwartz"
+	},
+	{
+		"CATEGORIA_ID": 359,
+		"NOME": "eu augue porttitor interdum. Sed auctor odio a purus. Duis",
+		"DTAINCLUSAO": "Mar 4, 2025",
+		"USUINCLUSAO": "Keith Graham"
+	},
+	{
+		"CATEGORIA_ID": 360,
+		"NOME": "aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu",
+		"DTAINCLUSAO": "Jan 4, 2025",
+		"USUINCLUSAO": "Tanner Patterson"
+	},
+	{
+		"CATEGORIA_ID": 361,
+		"NOME": "nonummy ut, molestie in, tempus eu, ligula. Aenean euismod mauris",
+		"DTAINCLUSAO": "Aug 31, 2023",
+		"USUINCLUSAO": "Gary Glenn"
+	},
+	{
+		"CATEGORIA_ID": 362,
+		"NOME": "Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede,",
+		"DTAINCLUSAO": "Jun 30, 2023",
+		"USUINCLUSAO": "Cora Galloway"
+	},
+	{
+		"CATEGORIA_ID": 363,
+		"NOME": "non enim. Mauris quis turpis vitae purus gravida sagittis. Duis",
+		"DTAINCLUSAO": "Dec 12, 2023",
+		"USUINCLUSAO": "Henry Michael"
+	},
+	{
+		"CATEGORIA_ID": 364,
+		"NOME": "Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a,",
+		"DTAINCLUSAO": "Dec 19, 2023",
+		"USUINCLUSAO": "Dacey Gallegos"
+	},
+	{
+		"CATEGORIA_ID": 365,
+		"NOME": "Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem,",
+		"DTAINCLUSAO": "Dec 8, 2023",
+		"USUINCLUSAO": "Hashim Joseph"
+	},
+	{
+		"CATEGORIA_ID": 366,
+		"NOME": "velit dui, semper et, lacinia vitae, sodales at, velit. Pellentesque",
+		"DTAINCLUSAO": "Mar 17, 2025",
+		"USUINCLUSAO": "Lacy Floyd"
+	},
+	{
+		"CATEGORIA_ID": 367,
+		"NOME": "Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent",
+		"DTAINCLUSAO": "Sep 25, 2024",
+		"USUINCLUSAO": "Bernard Mccarty"
+	},
+	{
+		"CATEGORIA_ID": 368,
+		"NOME": "eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis",
+		"DTAINCLUSAO": "Oct 14, 2023",
+		"USUINCLUSAO": "Maya Serrano"
+	},
+	{
+		"CATEGORIA_ID": 369,
+		"NOME": "nisl arcu iaculis enim, sit amet ornare lectus justo eu",
+		"DTAINCLUSAO": "Nov 4, 2024",
+		"USUINCLUSAO": "Rajah Cote"
+	},
+	{
+		"CATEGORIA_ID": 370,
+		"NOME": "sagittis placerat. Cras dictum ultricies ligula. Nullam enim. Sed nulla",
+		"DTAINCLUSAO": "Sep 20, 2024",
+		"USUINCLUSAO": "Danielle Chandler"
+	},
+	{
+		"CATEGORIA_ID": 371,
+		"NOME": "quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus",
+		"DTAINCLUSAO": "Sep 5, 2024",
+		"USUINCLUSAO": "Hayfa Hodge"
+	},
+	{
+		"CATEGORIA_ID": 372,
+		"NOME": "egestas. Duis ac arcu. Nunc mauris. Morbi non sapien molestie",
+		"DTAINCLUSAO": "Dec 7, 2024",
+		"USUINCLUSAO": "Castor Munoz"
+	},
+	{
+		"CATEGORIA_ID": 373,
+		"NOME": "elementum, lorem ut aliquam iaculis, lacus pede sagittis augue, eu",
+		"DTAINCLUSAO": "Oct 15, 2023",
+		"USUINCLUSAO": "Fletcher Bell"
+	},
+	{
+		"CATEGORIA_ID": 374,
+		"NOME": "Proin vel arcu eu odio tristique pharetra. Quisque ac libero",
+		"DTAINCLUSAO": "Jan 7, 2025",
+		"USUINCLUSAO": "Cameron Nelson"
+	},
+	{
+		"CATEGORIA_ID": 375,
+		"NOME": "Donec porttitor tellus non magna. Nam ligula elit, pretium et,",
+		"DTAINCLUSAO": "Mar 3, 2025",
+		"USUINCLUSAO": "Yvette Beach"
+	},
+	{
+		"CATEGORIA_ID": 376,
+		"NOME": "luctus, ipsum leo elementum sem, vitae aliquam eros turpis non",
+		"DTAINCLUSAO": "Sep 7, 2023",
+		"USUINCLUSAO": "Dexter Hewitt"
+	},
+	{
+		"CATEGORIA_ID": 377,
+		"NOME": "sed, facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque",
+		"DTAINCLUSAO": "Jan 25, 2025",
+		"USUINCLUSAO": "Neville Garcia"
+	},
+	{
+		"CATEGORIA_ID": 378,
+		"NOME": "tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec",
+		"DTAINCLUSAO": "Feb 7, 2024",
+		"USUINCLUSAO": "Maxwell Meadows"
+	},
+	{
+		"CATEGORIA_ID": 379,
+		"NOME": "malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit.",
+		"DTAINCLUSAO": "Dec 18, 2024",
+		"USUINCLUSAO": "Cairo Bentley"
+	},
+	{
+		"CATEGORIA_ID": 380,
+		"NOME": "auctor non, feugiat nec, diam. Duis mi enim, condimentum eget,",
+		"DTAINCLUSAO": "May 24, 2024",
+		"USUINCLUSAO": "Iliana Garrison"
+	},
+	{
+		"CATEGORIA_ID": 381,
+		"NOME": "Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat",
+		"DTAINCLUSAO": "Apr 23, 2023",
+		"USUINCLUSAO": "Winifred George"
+	},
+	{
+		"CATEGORIA_ID": 382,
+		"NOME": "Praesent eu nulla at sem molestie sodales. Mauris blandit enim",
+		"DTAINCLUSAO": "Jan 7, 2025",
+		"USUINCLUSAO": "Delilah Duncan"
+	},
+	{
+		"CATEGORIA_ID": 383,
+		"NOME": "sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis",
+		"DTAINCLUSAO": "Jan 9, 2024",
+		"USUINCLUSAO": "Griffith Fischer"
+	},
+	{
+		"CATEGORIA_ID": 384,
+		"NOME": "lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse",
+		"DTAINCLUSAO": "Feb 14, 2025",
+		"USUINCLUSAO": "Colton Hammond"
+	},
+	{
+		"CATEGORIA_ID": 385,
+		"NOME": "vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit",
+		"DTAINCLUSAO": "Jan 29, 2025",
+		"USUINCLUSAO": "Jason Figueroa"
+	},
+	{
+		"CATEGORIA_ID": 386,
+		"NOME": "non ante bibendum ullamcorper. Duis cursus, diam at pretium aliquet,",
+		"DTAINCLUSAO": "Sep 28, 2023",
+		"USUINCLUSAO": "Drake Malone"
+	},
+	{
+		"CATEGORIA_ID": 387,
+		"NOME": "ornare, elit elit fermentum risus, at fringilla purus mauris a",
+		"DTAINCLUSAO": "Feb 18, 2025",
+		"USUINCLUSAO": "Uma Perry"
+	},
+	{
+		"CATEGORIA_ID": 388,
+		"NOME": "In at pede. Cras vulputate velit eu sem. Pellentesque ut",
+		"DTAINCLUSAO": "Dec 16, 2023",
+		"USUINCLUSAO": "Fallon Gonzalez"
+	},
+	{
+		"CATEGORIA_ID": 389,
+		"NOME": "imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus, at",
+		"DTAINCLUSAO": "Apr 22, 2023",
+		"USUINCLUSAO": "Cyrus Bray"
+	},
+	{
+		"CATEGORIA_ID": 390,
+		"NOME": "Cras eget nisi dictum augue malesuada malesuada. Integer id magna",
+		"DTAINCLUSAO": "Jan 12, 2024",
+		"USUINCLUSAO": "Cruz Morales"
+	},
+	{
+		"CATEGORIA_ID": 391,
+		"NOME": "Nullam lobortis quam a felis ullamcorper viverra. Maecenas iaculis aliquet",
+		"DTAINCLUSAO": "Aug 8, 2023",
+		"USUINCLUSAO": "Chantale Atkinson"
+	},
+	{
+		"CATEGORIA_ID": 392,
+		"NOME": "in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan",
+		"DTAINCLUSAO": "Jan 29, 2024",
+		"USUINCLUSAO": "Xander Higgins"
+	},
+	{
+		"CATEGORIA_ID": 393,
+		"NOME": "sem, vitae aliquam eros turpis non enim. Mauris quis turpis",
+		"DTAINCLUSAO": "Feb 11, 2024",
+		"USUINCLUSAO": "Heidi Pearson"
+	},
+	{
+		"CATEGORIA_ID": 394,
+		"NOME": "convallis, ante lectus convallis est, vitae sodales nisi magna sed",
+		"DTAINCLUSAO": "Jul 17, 2023",
+		"USUINCLUSAO": "Madison Daniels"
+	},
+	{
+		"CATEGORIA_ID": 395,
+		"NOME": "vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor",
+		"DTAINCLUSAO": "Jul 28, 2023",
+		"USUINCLUSAO": "Sade Park"
+	},
+	{
+		"CATEGORIA_ID": 396,
+		"NOME": "nisi. Cum sociis natoque penatibus et magnis dis parturient montes,",
+		"DTAINCLUSAO": "Jun 28, 2023",
+		"USUINCLUSAO": "Kato Huff"
+	},
+	{
+		"CATEGORIA_ID": 397,
+		"NOME": "nisi sem semper erat, in consectetuer ipsum nunc id enim.",
+		"DTAINCLUSAO": "Oct 22, 2023",
+		"USUINCLUSAO": "Heather Mccray"
+	},
+	{
+		"CATEGORIA_ID": 398,
+		"NOME": "erat eget ipsum. Suspendisse sagittis. Nullam vitae diam. Proin dolor.",
+		"DTAINCLUSAO": "Jun 25, 2023",
+		"USUINCLUSAO": "Anika Rodriquez"
+	},
+	{
+		"CATEGORIA_ID": 399,
+		"NOME": "cursus et, eros. Proin ultrices. Duis volutpat nunc sit amet",
+		"DTAINCLUSAO": "Jul 4, 2023",
+		"USUINCLUSAO": "Lisandra Mann"
+	},
+	{
+		"CATEGORIA_ID": 400,
+		"NOME": "et magnis dis parturient montes, nascetur ridiculus mus. Proin vel",
+		"DTAINCLUSAO": "Nov 2, 2023",
+		"USUINCLUSAO": "Ori Travis"
+	},
+	{
+		"CATEGORIA_ID": 401,
+		"NOME": "massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis",
+		"DTAINCLUSAO": "Jun 18, 2023",
+		"USUINCLUSAO": "Nicole Hendrix"
+	},
+	{
+		"CATEGORIA_ID": 402,
+		"NOME": "a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque",
+		"DTAINCLUSAO": "Jul 1, 2024",
+		"USUINCLUSAO": "Roth Reid"
+	},
+	{
+		"CATEGORIA_ID": 403,
+		"NOME": "ultricies sem magna nec quam. Curabitur vel lectus. Cum sociis",
+		"DTAINCLUSAO": "Nov 12, 2023",
+		"USUINCLUSAO": "Chastity Barnett"
+	},
+	{
+		"CATEGORIA_ID": 404,
+		"NOME": "consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia",
+		"DTAINCLUSAO": "Sep 16, 2024",
+		"USUINCLUSAO": "Perry Terry"
+	},
+	{
+		"CATEGORIA_ID": 405,
+		"NOME": "Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non",
+		"DTAINCLUSAO": "Mar 1, 2025",
+		"USUINCLUSAO": "Yoshi Drake"
+	},
+	{
+		"CATEGORIA_ID": 406,
+		"NOME": "ac mi eleifend egestas. Sed pharetra, felis eget varius ultrices,",
+		"DTAINCLUSAO": "Dec 21, 2024",
+		"USUINCLUSAO": "Darryl Wilder"
+	},
+	{
+		"CATEGORIA_ID": 407,
+		"NOME": "dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales",
+		"DTAINCLUSAO": "Feb 19, 2025",
+		"USUINCLUSAO": "Nell Hudson"
+	},
+	{
+		"CATEGORIA_ID": 408,
+		"NOME": "ultricies sem magna nec quam. Curabitur vel lectus. Cum sociis",
+		"DTAINCLUSAO": "Feb 23, 2025",
+		"USUINCLUSAO": "Kim Goff"
+	},
+	{
+		"CATEGORIA_ID": 409,
+		"NOME": "ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris",
+		"DTAINCLUSAO": "May 9, 2023",
+		"USUINCLUSAO": "Adrian Farrell"
+	},
+	{
+		"CATEGORIA_ID": 410,
+		"NOME": "lacinia. Sed congue, elit sed consequat auctor, nunc nulla vulputate",
+		"DTAINCLUSAO": "Aug 15, 2024",
+		"USUINCLUSAO": "Garrett Stanley"
+	},
+	{
+		"CATEGORIA_ID": 411,
+		"NOME": "Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac",
+		"DTAINCLUSAO": "May 14, 2023",
+		"USUINCLUSAO": "Barrett Weber"
+	},
+	{
+		"CATEGORIA_ID": 412,
+		"NOME": "Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu,",
+		"DTAINCLUSAO": "Jun 12, 2024",
+		"USUINCLUSAO": "Christopher Morrow"
+	},
+	{
+		"CATEGORIA_ID": 413,
+		"NOME": "pellentesque, tellus sem mollis dui, in sodales elit erat vitae",
+		"DTAINCLUSAO": "May 27, 2023",
+		"USUINCLUSAO": "Whoopi Hood"
+	},
+	{
+		"CATEGORIA_ID": 414,
+		"NOME": "vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque",
+		"DTAINCLUSAO": "Mar 26, 2025",
+		"USUINCLUSAO": "Mohammad Morin"
+	},
+	{
+		"CATEGORIA_ID": 415,
+		"NOME": "Donec tempus, lorem fringilla ornare placerat, orci lacus vestibulum lorem,",
+		"DTAINCLUSAO": "Jan 18, 2025",
+		"USUINCLUSAO": "Kyle Brown"
+	},
+	{
+		"CATEGORIA_ID": 416,
+		"NOME": "vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum",
+		"DTAINCLUSAO": "Oct 3, 2024",
+		"USUINCLUSAO": "Holly Bond"
+	},
+	{
+		"CATEGORIA_ID": 417,
+		"NOME": "Nunc sed orci lobortis augue scelerisque mollis. Phasellus libero mauris,",
+		"DTAINCLUSAO": "Jun 30, 2024",
+		"USUINCLUSAO": "Adam Bishop"
+	},
+	{
+		"CATEGORIA_ID": 418,
+		"NOME": "dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus",
+		"DTAINCLUSAO": "Aug 25, 2023",
+		"USUINCLUSAO": "Erasmus Berry"
+	},
+	{
+		"CATEGORIA_ID": 419,
+		"NOME": "pede sagittis augue, eu tempor erat neque non quam. Pellentesque",
+		"DTAINCLUSAO": "Oct 14, 2024",
+		"USUINCLUSAO": "Quamar Stout"
+	},
+	{
+		"CATEGORIA_ID": 420,
+		"NOME": "nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in",
+		"DTAINCLUSAO": "Apr 15, 2024",
+		"USUINCLUSAO": "Zachery Gutierrez"
+	},
+	{
+		"CATEGORIA_ID": 421,
+		"NOME": "ac, fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra",
+		"DTAINCLUSAO": "Dec 4, 2023",
+		"USUINCLUSAO": "Hunter Perkins"
+	},
+	{
+		"CATEGORIA_ID": 422,
+		"NOME": "rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi",
+		"DTAINCLUSAO": "Sep 25, 2024",
+		"USUINCLUSAO": "Jason Carson"
+	},
+	{
+		"CATEGORIA_ID": 423,
+		"NOME": "egestas hendrerit neque. In ornare sagittis felis. Donec tempor, est",
+		"DTAINCLUSAO": "Jan 14, 2024",
+		"USUINCLUSAO": "Richard Washington"
+	},
+	{
+		"CATEGORIA_ID": 424,
+		"NOME": "gravida sit amet, dapibus id, blandit at, nisi. Cum sociis",
+		"DTAINCLUSAO": "Oct 27, 2023",
+		"USUINCLUSAO": "Nigel Fox"
+	},
+	{
+		"CATEGORIA_ID": 425,
+		"NOME": "neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc",
+		"DTAINCLUSAO": "Aug 13, 2023",
+		"USUINCLUSAO": "Dai Little"
+	},
+	{
+		"CATEGORIA_ID": 426,
+		"NOME": "a, auctor non, feugiat nec, diam. Duis mi enim, condimentum",
+		"DTAINCLUSAO": "Nov 10, 2024",
+		"USUINCLUSAO": "Stewart Stout"
+	},
+	{
+		"CATEGORIA_ID": 427,
+		"NOME": "sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam",
+		"DTAINCLUSAO": "Sep 3, 2024",
+		"USUINCLUSAO": "Brooke Oliver"
+	},
+	{
+		"CATEGORIA_ID": 428,
+		"NOME": "id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus",
+		"DTAINCLUSAO": "Oct 4, 2023",
+		"USUINCLUSAO": "Dalton Long"
+	},
+	{
+		"CATEGORIA_ID": 429,
+		"NOME": "tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque",
+		"DTAINCLUSAO": "Sep 2, 2024",
+		"USUINCLUSAO": "Shelly Mayo"
+	},
+	{
+		"CATEGORIA_ID": 430,
+		"NOME": "eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis",
+		"DTAINCLUSAO": "Dec 5, 2023",
+		"USUINCLUSAO": "Abbot Morin"
+	},
+	{
+		"CATEGORIA_ID": 431,
+		"NOME": "pretium aliquet, metus urna convallis erat, eget tincidunt dui augue",
+		"DTAINCLUSAO": "Jan 21, 2025",
+		"USUINCLUSAO": "Inga Haley"
+	},
+	{
+		"CATEGORIA_ID": 432,
+		"NOME": "Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc",
+		"DTAINCLUSAO": "Jul 4, 2024",
+		"USUINCLUSAO": "Marcia Pugh"
+	},
+	{
+		"CATEGORIA_ID": 433,
+		"NOME": "Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor",
+		"DTAINCLUSAO": "Jul 7, 2024",
+		"USUINCLUSAO": "Idona Bernard"
+	},
+	{
+		"CATEGORIA_ID": 434,
+		"NOME": "malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam",
+		"DTAINCLUSAO": "Oct 7, 2023",
+		"USUINCLUSAO": "Otto Galloway"
+	},
+	{
+		"CATEGORIA_ID": 435,
+		"NOME": "in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu",
+		"DTAINCLUSAO": "Apr 1, 2024",
+		"USUINCLUSAO": "Ariana Donaldson"
+	},
+	{
+		"CATEGORIA_ID": 436,
+		"NOME": "id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis",
+		"DTAINCLUSAO": "Jun 30, 2023",
+		"USUINCLUSAO": "Ignacia Whitehead"
+	},
+	{
+		"CATEGORIA_ID": 437,
+		"NOME": "Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper,",
+		"DTAINCLUSAO": "Jan 23, 2024",
+		"USUINCLUSAO": "Brady Collins"
+	},
+	{
+		"CATEGORIA_ID": 438,
+		"NOME": "justo nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate,",
+		"DTAINCLUSAO": "Oct 10, 2023",
+		"USUINCLUSAO": "Mikayla Frederick"
+	},
+	{
+		"CATEGORIA_ID": 439,
+		"NOME": "eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis",
+		"DTAINCLUSAO": "Jul 15, 2023",
+		"USUINCLUSAO": "Macon Underwood"
+	},
+	{
+		"CATEGORIA_ID": 440,
+		"NOME": "Nulla eget metus eu erat semper rutrum. Fusce dolor quam,",
+		"DTAINCLUSAO": "Jun 20, 2023",
+		"USUINCLUSAO": "Jamalia Bowman"
+	},
+	{
+		"CATEGORIA_ID": 441,
+		"NOME": "Integer eu lacus. Quisque imperdiet, erat nonummy ultricies ornare, elit",
+		"DTAINCLUSAO": "Jan 25, 2025",
+		"USUINCLUSAO": "Acton Osborne"
+	},
+	{
+		"CATEGORIA_ID": 442,
+		"NOME": "magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec",
+		"DTAINCLUSAO": "Apr 20, 2023",
+		"USUINCLUSAO": "Aline Mcneil"
+	},
+	{
+		"CATEGORIA_ID": 443,
+		"NOME": "mauris a nunc. In at pede. Cras vulputate velit eu",
+		"DTAINCLUSAO": "Apr 22, 2023",
+		"USUINCLUSAO": "Zahir Bush"
+	},
+	{
+		"CATEGORIA_ID": 444,
+		"NOME": "ornare. Fusce mollis. Duis sit amet diam eu dolor egestas",
+		"DTAINCLUSAO": "Oct 1, 2023",
+		"USUINCLUSAO": "Oscar Hinton"
+	},
+	{
+		"CATEGORIA_ID": 445,
+		"NOME": "tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh",
+		"DTAINCLUSAO": "Jul 2, 2023",
+		"USUINCLUSAO": "Carson Bartlett"
+	},
+	{
+		"CATEGORIA_ID": 446,
+		"NOME": "Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie",
+		"DTAINCLUSAO": "Sep 3, 2024",
+		"USUINCLUSAO": "Hermione Huber"
+	},
+	{
+		"CATEGORIA_ID": 447,
+		"NOME": "Duis elementum, dui quis accumsan convallis, ante lectus convallis est,",
+		"DTAINCLUSAO": "Feb 12, 2025",
+		"USUINCLUSAO": "Leila Weiss"
+	},
+	{
+		"CATEGORIA_ID": 448,
+		"NOME": "dolor, tempus non, lacinia at, iaculis quis, pede. Praesent eu",
+		"DTAINCLUSAO": "Feb 9, 2024",
+		"USUINCLUSAO": "Owen Whitehead"
+	},
+	{
+		"CATEGORIA_ID": 449,
+		"NOME": "mi. Duis risus odio, auctor vitae, aliquet nec, imperdiet nec,",
+		"DTAINCLUSAO": "Aug 24, 2023",
+		"USUINCLUSAO": "Wade Brooks"
+	},
+	{
+		"CATEGORIA_ID": 450,
+		"NOME": "Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat.",
+		"DTAINCLUSAO": "Nov 13, 2023",
+		"USUINCLUSAO": "Lucius Sargent"
+	},
+	{
+		"CATEGORIA_ID": 451,
+		"NOME": "Nam ligula elit, pretium et, rutrum non, hendrerit id, ante.",
+		"DTAINCLUSAO": "Aug 10, 2024",
+		"USUINCLUSAO": "Ivor Aguilar"
+	},
+	{
+		"CATEGORIA_ID": 452,
+		"NOME": "commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies",
+		"DTAINCLUSAO": "Feb 23, 2025",
+		"USUINCLUSAO": "Cruz Holland"
+	},
+	{
+		"CATEGORIA_ID": 453,
+		"NOME": "aliquet libero. Integer in magna. Phasellus dolor elit, pellentesque a,",
+		"DTAINCLUSAO": "Sep 23, 2024",
+		"USUINCLUSAO": "Mona Ellison"
+	},
+	{
+		"CATEGORIA_ID": 454,
+		"NOME": "diam at pretium aliquet, metus urna convallis erat, eget tincidunt",
+		"DTAINCLUSAO": "Feb 15, 2024",
+		"USUINCLUSAO": "Hermione Hines"
+	},
+	{
+		"CATEGORIA_ID": 455,
+		"NOME": "Sed neque. Sed eget lacus. Mauris non dui nec urna",
+		"DTAINCLUSAO": "Sep 15, 2024",
+		"USUINCLUSAO": "Hadassah West"
+	},
+	{
+		"CATEGORIA_ID": 456,
+		"NOME": "habitant morbi tristique senectus et netus et malesuada fames ac",
+		"DTAINCLUSAO": "Aug 27, 2023",
+		"USUINCLUSAO": "Alyssa Whitney"
+	},
+	{
+		"CATEGORIA_ID": 457,
+		"NOME": "nulla magna, malesuada vel, convallis in, cursus et, eros. Proin",
+		"DTAINCLUSAO": "Oct 7, 2024",
+		"USUINCLUSAO": "Pearl Thomas"
+	},
+	{
+		"CATEGORIA_ID": 458,
+		"NOME": "aliquet vel, vulputate eu, odio. Phasellus at augue id ante",
+		"DTAINCLUSAO": "Apr 6, 2025",
+		"USUINCLUSAO": "Amir Bowen"
+	},
+	{
+		"CATEGORIA_ID": 459,
+		"NOME": "eget metus eu erat semper rutrum. Fusce dolor quam, elementum",
+		"DTAINCLUSAO": "Nov 1, 2024",
+		"USUINCLUSAO": "Garth Campbell"
+	},
+	{
+		"CATEGORIA_ID": 460,
+		"NOME": "Cras vehicula aliquet libero. Integer in magna. Phasellus dolor elit,",
+		"DTAINCLUSAO": "Nov 22, 2024",
+		"USUINCLUSAO": "Orlando Carver"
+	},
+	{
+		"CATEGORIA_ID": 461,
+		"NOME": "Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus vitae",
+		"DTAINCLUSAO": "Aug 29, 2023",
+		"USUINCLUSAO": "Phyllis Stein"
+	},
+	{
+		"CATEGORIA_ID": 462,
+		"NOME": "ac arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt",
+		"DTAINCLUSAO": "Oct 23, 2023",
+		"USUINCLUSAO": "Ivory Gentry"
+	},
+	{
+		"CATEGORIA_ID": 463,
+		"NOME": "non quam. Pellentesque habitant morbi tristique senectus et netus et",
+		"DTAINCLUSAO": "Sep 15, 2023",
+		"USUINCLUSAO": "Carlos Mosley"
+	},
+	{
+		"CATEGORIA_ID": 464,
+		"NOME": "ac, fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra",
+		"DTAINCLUSAO": "May 4, 2024",
+		"USUINCLUSAO": "Eagan Velez"
+	},
+	{
+		"CATEGORIA_ID": 465,
+		"NOME": "ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus",
+		"DTAINCLUSAO": "Dec 30, 2023",
+		"USUINCLUSAO": "Myra Shannon"
+	},
+	{
+		"CATEGORIA_ID": 466,
+		"NOME": "Mauris blandit enim consequat purus. Maecenas libero est, congue a,",
+		"DTAINCLUSAO": "Jun 28, 2024",
+		"USUINCLUSAO": "Slade Gilbert"
+	},
+	{
+		"CATEGORIA_ID": 467,
+		"NOME": "mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam",
+		"DTAINCLUSAO": "Feb 7, 2024",
+		"USUINCLUSAO": "Cedric Petersen"
+	},
+	{
+		"CATEGORIA_ID": 468,
+		"NOME": "dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae,",
+		"DTAINCLUSAO": "Nov 13, 2024",
+		"USUINCLUSAO": "Adrienne Ball"
+	},
+	{
+		"CATEGORIA_ID": 469,
+		"NOME": "rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem",
+		"DTAINCLUSAO": "Nov 13, 2024",
+		"USUINCLUSAO": "Uriah Mccarty"
+	},
+	{
+		"CATEGORIA_ID": 470,
+		"NOME": "pede. Praesent eu dui. Cum sociis natoque penatibus et magnis",
+		"DTAINCLUSAO": "Apr 10, 2024",
+		"USUINCLUSAO": "Cassady Larsen"
+	},
+	{
+		"CATEGORIA_ID": 471,
+		"NOME": "Etiam bibendum fermentum metus. Aenean sed pede nec ante blandit",
+		"DTAINCLUSAO": "Dec 9, 2023",
+		"USUINCLUSAO": "Darryl Green"
+	},
+	{
+		"CATEGORIA_ID": 472,
+		"NOME": "neque. Sed eget lacus. Mauris non dui nec urna suscipit",
+		"DTAINCLUSAO": "Nov 19, 2023",
+		"USUINCLUSAO": "Jordan Wiggins"
+	},
+	{
+		"CATEGORIA_ID": 473,
+		"NOME": "Quisque libero lacus, varius et, euismod et, commodo at, libero.",
+		"DTAINCLUSAO": "May 14, 2024",
+		"USUINCLUSAO": "Britanni Fulton"
+	},
+	{
+		"CATEGORIA_ID": 474,
+		"NOME": "Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas",
+		"DTAINCLUSAO": "Nov 15, 2024",
+		"USUINCLUSAO": "Drake Mcknight"
+	},
+	{
+		"CATEGORIA_ID": 475,
+		"NOME": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula.",
+		"DTAINCLUSAO": "Jun 27, 2023",
+		"USUINCLUSAO": "Marshall Bryant"
+	},
+	{
+		"CATEGORIA_ID": 476,
+		"NOME": "purus. Duis elementum, dui quis accumsan convallis, ante lectus convallis",
+		"DTAINCLUSAO": "Jan 1, 2024",
+		"USUINCLUSAO": "Shoshana Rutledge"
+	},
+	{
+		"CATEGORIA_ID": 477,
+		"NOME": "mollis. Phasellus libero mauris, aliquam eu, accumsan sed, facilisis vitae,",
+		"DTAINCLUSAO": "Jul 12, 2023",
+		"USUINCLUSAO": "Montana Wall"
+	},
+	{
+		"CATEGORIA_ID": 478,
+		"NOME": "tellus justo sit amet nulla. Donec non justo. Proin non",
+		"DTAINCLUSAO": "Dec 12, 2023",
+		"USUINCLUSAO": "Fulton Brown"
+	},
+	{
+		"CATEGORIA_ID": 479,
+		"NOME": "metus vitae velit egestas lacinia. Sed congue, elit sed consequat",
+		"DTAINCLUSAO": "Dec 28, 2024",
+		"USUINCLUSAO": "Brett Sykes"
+	},
+	{
+		"CATEGORIA_ID": 480,
+		"NOME": "Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris.",
+		"DTAINCLUSAO": "Jul 17, 2023",
+		"USUINCLUSAO": "Sylvester Gentry"
+	},
+	{
+		"CATEGORIA_ID": 481,
+		"NOME": "consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales",
+		"DTAINCLUSAO": "Feb 10, 2025",
+		"USUINCLUSAO": "Price Coleman"
+	},
+	{
+		"CATEGORIA_ID": 482,
+		"NOME": "sed pede nec ante blandit viverra. Donec tempus, lorem fringilla",
+		"DTAINCLUSAO": "Jan 25, 2025",
+		"USUINCLUSAO": "Elmo Greene"
+	},
+	{
+		"CATEGORIA_ID": 483,
+		"NOME": "et libero. Proin mi. Aliquam gravida mauris ut mi. Duis",
+		"DTAINCLUSAO": "Aug 29, 2023",
+		"USUINCLUSAO": "Daryl Silva"
+	},
+	{
+		"CATEGORIA_ID": 484,
+		"NOME": "feugiat tellus lorem eu metus. In lorem. Donec elementum, lorem",
+		"DTAINCLUSAO": "Sep 4, 2023",
+		"USUINCLUSAO": "Cadman Mason"
+	},
+	{
+		"CATEGORIA_ID": 485,
+		"NOME": "quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus",
+		"DTAINCLUSAO": "Jun 16, 2024",
+		"USUINCLUSAO": "Kirby Estes"
+	},
+	{
+		"CATEGORIA_ID": 486,
+		"NOME": "tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis,",
+		"DTAINCLUSAO": "Jan 1, 2025",
+		"USUINCLUSAO": "Octavius Hamilton"
+	},
+	{
+		"CATEGORIA_ID": 487,
+		"NOME": "elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et",
+		"DTAINCLUSAO": "Sep 19, 2024",
+		"USUINCLUSAO": "Imelda Acevedo"
+	},
+	{
+		"CATEGORIA_ID": 488,
+		"NOME": "euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet,",
+		"DTAINCLUSAO": "Aug 7, 2023",
+		"USUINCLUSAO": "Jason Farrell"
+	},
+	{
+		"CATEGORIA_ID": 489,
+		"NOME": "mattis. Cras eget nisi dictum augue malesuada malesuada. Integer id",
+		"DTAINCLUSAO": "Jan 27, 2025",
+		"USUINCLUSAO": "Inez Stein"
+	},
+	{
+		"CATEGORIA_ID": 490,
+		"NOME": "dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque",
+		"DTAINCLUSAO": "Jan 9, 2025",
+		"USUINCLUSAO": "Glenna Weeks"
+	},
+	{
+		"CATEGORIA_ID": 491,
+		"NOME": "In ornare sagittis felis. Donec tempor, est ac mattis semper,",
+		"DTAINCLUSAO": "Jan 4, 2025",
+		"USUINCLUSAO": "Mariko Wong"
+	},
+	{
+		"CATEGORIA_ID": 492,
+		"NOME": "pede sagittis augue, eu tempor erat neque non quam. Pellentesque",
+		"DTAINCLUSAO": "Feb 27, 2025",
+		"USUINCLUSAO": "Nehru Duke"
+	},
+	{
+		"CATEGORIA_ID": 493,
+		"NOME": "luctus lobortis. Class aptent taciti sociosqu ad litora torquent per",
+		"DTAINCLUSAO": "Aug 31, 2023",
+		"USUINCLUSAO": "Deacon Stephens"
+	},
+	{
+		"CATEGORIA_ID": 494,
+		"NOME": "amet, risus. Donec nibh enim, gravida sit amet, dapibus id,",
+		"DTAINCLUSAO": "Aug 8, 2024",
+		"USUINCLUSAO": "Jayme Stuart"
+	},
+	{
+		"CATEGORIA_ID": 495,
+		"NOME": "adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu",
+		"DTAINCLUSAO": "Oct 5, 2024",
+		"USUINCLUSAO": "Ima Hayes"
+	},
+	{
+		"CATEGORIA_ID": 496,
+		"NOME": "Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet",
+		"DTAINCLUSAO": "Nov 28, 2024",
+		"USUINCLUSAO": "Ryan Cooper"
+	},
+	{
+		"CATEGORIA_ID": 497,
+		"NOME": "consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam",
+		"DTAINCLUSAO": "Mar 18, 2024",
+		"USUINCLUSAO": "Herman Pena"
+	},
+	{
+		"CATEGORIA_ID": 498,
+		"NOME": "id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque",
+		"DTAINCLUSAO": "Jul 26, 2023",
+		"USUINCLUSAO": "Hayfa Walters"
+	},
+	{
+		"CATEGORIA_ID": 499,
+		"NOME": "porta elit, a feugiat tellus lorem eu metus. In lorem.",
+		"DTAINCLUSAO": "Apr 27, 2024",
+		"USUINCLUSAO": "Amber Serrano"
+	},
+	{
+		"CATEGORIA_ID": 500,
+		"NOME": "euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet,",
+		"DTAINCLUSAO": "Aug 2, 2024",
+		"USUINCLUSAO": "Stewart Henry"
+	},
+	{
+		"CATEGORIA_ID": 501,
+		"NOME": "auctor, nunc nulla vulputate dui, nec tempus mauris erat eget",
+		"DTAINCLUSAO": "Jan 19, 2024",
+		"USUINCLUSAO": "Brody Oneal"
+	}
+]

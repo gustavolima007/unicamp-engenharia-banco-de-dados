@@ -1,0 +1,76 @@
+1- Quais os campos obrigatorios para campos de aluno?
+
+
+Nome
+CPF
+Sexo
+Idade
+Contatos
+DtaMatricula
+DtaEncerramentoContrato - Não obrigatório
+AtivoOuNao
+Plano
+CarenciaRestante (calculada com base no encerramento de contrato)
+
+2- Quais os campos obrigatórios para os personais e professores:
+
+Professores:
+Nome 
+CPF
+IDade
+Contatos
+Sexo
+Salario
+DtaEmissao
+DtaEncerramentoContrato (Não é obrigatório)
+AtivoOuNao
+HorarioDeTrabalho
+
+Personais:
+Nome 
+CPF
+IDade
+Sexo
+Contatos
+Porcentagem de Repasse
+Data Inicio Contrato
+Data Finalizacao Contrato
+Ativo ou Nao
+Aulas no mês corrente (É alterado no final do mês) -- Fazer tabela para o histórico
+
+3- Quais os campos obrigatórios para controle do cadasttro do aluno:
+
+CPF
+Data de Entrada
+Dta de Saida
+
+4- Quais os niveis de acesso:
+
+2 grupos de usuarios: Grupo de Secretaria e Grupo de Adm
+
+Secretaria pode add e remover alunos, controle de pagamentos
+Adm: controle de salario de professores, add ou remover personal e add e remover tipos de planos
+
+5- Quando um cliente nao poderá ser cadastrado:
+
+Inadimplência - após 3 meses, inativar!
+
+6- Quando o sistema deve cancelar automaticamente a matricula do aluno
+
+A partir de 3 meses de inadimplencia // Tabela de pagamento dos alunos informa o ultimo dia do pagamento
+
+7- Quando um aluno ou funcionário poderia ser multado ou expulso da academia? quais as infrações
+
+Não há restrições
+
+8- Como registraremos a carga horária dos professores e funcionários
+
+Através do controle de pontos (horario de entrada e saída)
+
+9- Teremos um cadastro de unidades da academia?
+
+No momento não, mas poderiamos ja pensar numa possível expansão
+
+10- Como registraremos as despesas gerais da academia
+
+Não foi definido no escopo, os unicos custos serão de funcionários (salario)

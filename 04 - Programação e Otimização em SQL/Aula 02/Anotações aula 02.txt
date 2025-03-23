@@ -1,0 +1,21 @@
+show databases;
+
+use mysql;
+
+show tables;
+
+DESC plugin;
+
+DESC global_grants;
+
+Show processlist;
+
+select COUNT(*) FROM mysql.general_log LIMIT 0, 100;
+
+SHOW INDEX from mysql.general_log;
+
+SELECT * , CONVERT(argument using utf8 ) from mysql.general_log limit 200;
+
+SELECT * , CONVERT(argument using utf8 ) from mysql.general_log order by event_time desc limit 200;
+
+select * from slow_log limit 50;
