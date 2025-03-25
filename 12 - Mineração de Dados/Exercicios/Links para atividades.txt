@@ -1,10 +1,13 @@
 https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR41E8VC6t9yhDdJjZvs082g02vRj2C_pUob1WFOEAN9oePDcCpiZ8IJQB1fzZ-X5f489hTDXyDIb1t/pubhtml?gid=153928115&single=true
 
-Atividades:
+ATIVIDADES:
 
 ----> Python - OK
 ----> NumPy - OK
 ----> Pandas - OK
-----> Intruducao a MD - OK
-----> Tratamento de dados
+----> Intrudução a MD - OK
+----> Tratamento de dados - OK
 
+----> Intrudução a visualização
+----> Métodos e Métricas de avaliação
+----> Agrupamento
