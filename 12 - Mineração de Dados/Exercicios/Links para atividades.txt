@@ -8,6 +8,5 @@ ATIVIDADES:
 ----> Intrudução a MD - OK
 ----> Tratamento de dados - OK
 
-----> Intrudução a visualização
-----> Métodos e Métricas de avaliação
+----> Classificação
 ----> Agrupamento
