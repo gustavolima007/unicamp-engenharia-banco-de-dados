@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "author": "Disciplinas EEP",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-nano", "id": "nano", "top": 676.8, "left": 249.1, "attrs": {} },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": -281.6,
+      "left": 207.2,
+      "attrs": { "pins": "i2c", "i2c-address": "0x20" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -234,
+      "left": 51.8,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 262.6,
+      "left": 114.35,
+      "rotate": 270,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-photoresistor-sensor",
+      "id": "ldr1",
+      "top": 598.4,
+      "left": 864.8,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc1",
+      "top": 434.6,
+      "left": 882.6,
+      "attrs": {}
+    },
+    { "type": "wokwi-hc-sr04", "id": "ultrasonic1", "top": 145.5, "left": 879.1, "attrs": {} },
+    { "type": "wokwi-gas-sensor", "id": "gas1", "top": 338.7, "left": 890.2, "attrs": {} },
+    {
+      "type": "wokwi-membrane-keypad",
+      "id": "keypad1",
+      "top": -347.6,
+      "left": 994.4,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "lcd1:SCL", "nano:A5", "blue", [ "h-28.8", "v211.5", "h230.4", "v182.4", "h-96" ] ],
+    [ "lcd1:SDA", "nano:A4", "yellow", [ "h-38.4", "v211.4", "h249.6", "v201.6", "h-115.2" ] ],
+    [ "lcd1:VCC", "nano:5V", "red", [ "h-48", "v249.7", "h230.4", "v134.4", "h-57.6" ] ],
+    [ "lcd1:GND", "nano:GND.1", "black", [ "h-57.6", "v278.4", "h249.6", "v124.8", "h-38.4" ] ],
+    [ "nano:GND.2", "led1:C", "#8f4814", [ "v-28.8", "h-240.4" ] ],
+    [ "led1:A", "r1:2", "green", [ "v19.2" ] ],
+    [ "r1:1", "nano:12", "blue", [ "v28.8", "h124.8" ] ],
+    [ "ldr1:VCC", "nano:5V", "red", [ "h153.6", "v-67.2", "h-48" ] ],
+    [ "ldr1:GND", "nano:GND.1", "black", [ "h163.2", "v-67.6", "h-38.4" ] ],
+    [ "ldr1:AO", "nano:A3", "limegreen", [ "h57.6", "v-135.1" ] ],
+    [ "ntc1:GND", "nano:GND.1", "black", [ "h172.8", "v-153.6", "h-38.4" ] ],
+    [ "ntc1:VCC", "nano:5V", "red", [ "h163.2", "v-172.8", "h-48" ] ],
+    [ "ntc1:OUT", "nano:A0", "gray", [ "h19.2", "v-220.9" ] ],
+    [ "ultrasonic1:VCC", "nano:5V", "red", [ "v38.4", "h76.8", "v134.4", "h-48" ] ],
+    [ "ultrasonic1:TRIG", "nano:10", "purple", [ "v76.8", "h-67.6" ] ],
+    [ "ultrasonic1:ECHO", "nano:9", "limegreen", [ "v48", "h-68" ] ],
+    [ "ultrasonic1:GND", "nano:GND.1", "black", [ "h56.4", "v182.4", "h-38.4" ] ],
+    [ "gas1:AOUT", "nano:A2", "#8f4814", [ "h57.6", "v-268.8" ] ],
+    [ "gas1:GND", "nano:GND.1", "black", [ "h172.8", "v-260", "h-38.4" ] ],
+    [ "gas1:VCC", "nano:5V", "red", [ "h163.2", "v-279.3", "h-48" ] ],
+    [ "keypad1:R1", "nano:A0", "orange", [ "v134.4", "h-355.2" ] ],
+    [ "keypad1:R2", "nano:A1", "purple", [ "v144", "h-355.6" ] ],
+    [ "keypad1:R3", "nano:7", "limegreen", [ "v124.8", "h-211.5", "v-182.4", "h-144" ] ],
+    [ "keypad1:R4", "nano:6", "gray", [ "v115.2", "h-211.4", "v-153.6", "h-144" ] ],
+    [ "keypad1:C1", "nano:5", "black", [ "v105.6", "h-211.3", "v-124.8", "h-144" ] ],
+    [ "keypad1:C2", "nano:4", "red", [ "v96", "h-211.2", "v-96", "h-144" ] ],
+    [ "keypad1:C3", "nano:3", "cyan", [ "h-0.15", "v86.4", "h-211.2", "v-96", "h-144" ] ],
+    [ "keypad1:C4", "nano:2", "limegreen", [ "v76.8", "h-211.5", "v-144", "h-144", "v76.8" ] ]
+  ],
+  "dependencies": {}
+}
