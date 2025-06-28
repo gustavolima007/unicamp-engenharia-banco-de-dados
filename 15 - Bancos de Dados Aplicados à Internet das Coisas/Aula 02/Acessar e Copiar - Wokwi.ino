@@ -49,9 +49,28 @@ Prog36   - Sem Equivalência no momento
 Prog37   - UNO https://wokwi.com/projects/433667528083237889 NANO https://wokwi.com/projects/433669833675626497
 Prog38   - UNO https://wokwi.com/projects/433667538185223169 NANO https://wokwi.com/projects/433669850233693185
 Prog39   - UNO https://wokwi.com/projects/433667912184010753 NANO https://wokwi.com/projects/433669860853672961
-Prog40   - UNO https://wokwi.com/projects/433667550221829121 NANO https://wokwi.com/projects/433669871174808577
+Prog40   - UNO https://wokwi.com/projects/433667560011337729 NANO https://wokwi.com/projects/433674747111300097
 
 Prog41   - Sem Equivalência no momento
 Prog42   - Sem Equivalência no momento
 Prog43   - Sem Equivalência no momento
 Prog44   - Sem Equivalência no momento
+
+--->
+Prog77 - https://wokwi.com/projects/433674747111300097
+
+Prog81 - https://wokwi.com/projects/433674779691614209
+ 
+
+---> Produtor para Ubidots
+Prog82 - https://wokwi.com/projects/433677829714268161
+
+--
+Prog83 - https://wokwi.com/projects/433677841791767553
+
+--
+Prog84 - https://wokwi.com/projects/434664110203604993
+ 
+
+-->
+Publisher_MQTT_Exemplo  - https://wokwi.com/projects/434667304725531649
