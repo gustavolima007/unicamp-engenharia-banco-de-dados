@@ -1,0 +1,6 @@
+
+MySQL Connector Arduino
+LiquidCrystal I2C
+ESP32_MySQL
+WiFi
+MySQL Query Client

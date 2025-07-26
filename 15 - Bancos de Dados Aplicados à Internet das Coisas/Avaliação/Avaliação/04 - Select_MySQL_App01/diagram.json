@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Disciplinas FATEC",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -14.5, "left": -158.6, "attrs": {} },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": -3.2,
+      "left": 5.6,
+      "attrs": { "pins": "i2c" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "esp:GND.1", "lcd1:GND", "black", [ "h38.1", "v-105.7" ] ],
+    [ "lcd1:VCC", "esp:3V3", "red", [ "h-38.4", "v105.7" ] ],
+    [ "lcd1:SCL", "esp:D22", "green", [ "h-48", "v-38.1" ] ],
+    [ "lcd1:SDA", "esp:D21", "green", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}

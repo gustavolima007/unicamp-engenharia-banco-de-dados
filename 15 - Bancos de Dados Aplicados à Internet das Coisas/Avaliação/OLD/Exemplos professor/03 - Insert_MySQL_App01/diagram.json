@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Disciplinas EEP",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 14.3, "left": 52.6, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": -78.1, "left": -259.4, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot2", "top": -78.1, "left": -182.6, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot3", "top": -78.1, "left": -105.8, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot4", "top": -78.1, "left": -29, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "esp:D34", "pot4:SIG", "blue", [ "h0" ] ],
+    [ "esp:D35", "pot3:SIG", "blue", [ "h0" ] ],
+    [ "esp:D32", "pot2:SIG", "blue", [ "h0" ] ],
+    [ "esp:D33", "pot1:SIG", "blue", [ "h0" ] ],
+    [ "esp:GND.2", "pot1:GND", "black", [ "h0" ] ],
+    [ "esp:GND.2", "pot2:GND", "black", [ "h0" ] ],
+    [ "esp:GND.2", "pot3:GND", "black", [ "h0" ] ],
+    [ "esp:GND.2", "pot4:GND", "black", [ "h0" ] ],
+    [ "esp:VIN", "pot1:VCC", "red", [ "h0" ] ],
+    [ "esp:VIN", "pot2:VCC", "red", [ "h0" ] ],
+    [ "esp:VIN", "pot3:VCC", "red", [ "h0" ] ],
+    [ "esp:VIN", "pot4:VCC", "red", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
